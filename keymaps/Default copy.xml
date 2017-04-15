@@ -1,0 +1,52 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt 4" />
+  </action>
+  <action id="CollapseSelection" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="EditorChooseLookupItemDot" />
+  <action id="FileChooser.GotoProject">
+    <keyboard-shortcut first-keystroke="ctrl alt f1" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+</keymap>

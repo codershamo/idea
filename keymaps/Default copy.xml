@@ -46,6 +46,9 @@
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="emacsIDEAs.AceJumpWord">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>

@@ -92,7 +92,7 @@
         <mark key="." line="220" column="48" />
         <mark key="^" line="220" column="48" />
       </file>
-      <file name="$USER_HOME$/workplace/open-coupon-api/src/main/java/com/qunar/hotel/qta/coupon/api/constants/ActivityIdDefinition.java" timestamp="1496201679297" />
+      <file name="$USER_HOME$/workplace/open-coupon-api/src/main/java/com/qunar/hotel/qta/coupon/api/constants/ActivityIdDefinition.java" timestamp="1496212920412" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
@@ -229,7 +229,7 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492257110584">
+      <file name="/Dummy.txt" timestamp="1496213280868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/UserInterface.java" timestamp="1491470755024">
@@ -256,6 +256,7 @@
         <mark key="." line="264" column="105" />
         <mark key="^" line="264" column="105" />
       </file>
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/AbstractManager.java" timestamp="1496213321029" />
       <file name="$USER_HOME$/workplace/springtest/pom.xml" timestamp="1492268106749">
         <mark key="[" line="75" column="21" />
         <mark key="]" line="75" column="0" />

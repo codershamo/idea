@@ -80,7 +80,6 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/CashVoucherApiService.java" timestamp="1496202000755" />
       <file name="$USER_HOME$/qunar_component/qclient-db.git/pom.xml" timestamp="1491555056099">
         <mark key="[" line="31" column="27" />
         <mark key="]" line="31" column="27" />
@@ -92,7 +91,6 @@
         <mark key="." line="220" column="48" />
         <mark key="^" line="220" column="48" />
       </file>
-      <file name="$USER_HOME$/workplace/open-coupon-api/src/main/java/com/qunar/hotel/qta/coupon/api/constants/ActivityIdDefinition.java" timestamp="1496212920412" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
@@ -119,11 +117,9 @@
         <mark key="^" line="7" column="63" />
         <mark key="." line="7" column="63" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PricingModelMaskProcessor.java" timestamp="1496229144265" />
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/MaxProfitConfig.java" timestamp="1496229209576" />
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
         <mark key="[" line="254" column="27" />
       </file>
@@ -148,14 +144,12 @@
         <mark key="^" line="13" column="53" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/NormalPricePricingModelMaskProcessor.java" timestamp="1496224495531" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/service/UserService.java" timestamp="1491471170546">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="11" />
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/ConfigGeneral.java" timestamp="1496229215529" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/org/fenixsoft/clazz/TestClass.java" timestamp="1496199262926">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -226,7 +220,7 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496213280868">
+      <file name="/Dummy.txt" timestamp="1496280903904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/UserInterface.java" timestamp="1491470755024">
@@ -253,7 +247,6 @@
         <mark key="." line="264" column="105" />
         <mark key="^" line="264" column="105" />
       </file>
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/AbstractManager.java" timestamp="1496213321029" />
       <file name="$USER_HOME$/workplace/springtest/pom.xml" timestamp="1492268106749">
         <mark key="[" line="75" column="21" />
         <mark key="]" line="75" column="0" />

@@ -12,6 +12,9 @@
       <file name="/a.dummy" timestamp="1491373785221">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.180/h_hprice_common-1.2.180-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageCashCouponConfig.java" timestamp="1496644679513">
+        <mark key="'" line="27" column="44" />
+      </file>
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/MobilePackageProductProcessor.java" timestamp="1496641411824" />
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
@@ -25,6 +28,9 @@
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PriceMaker.java" timestamp="1496632385832" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.180/h_hprice_common-1.2.180-sources.jar!/com/qunar/hotel/price/base/commonconf/TaxiCouponConfig.java" timestamp="1496644385722">
+        <mark key="'" line="25" column="44" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
@@ -41,7 +47,9 @@
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractPackageProductProcessor.java" timestamp="1496641753455" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractPackageProductProcessor.java" timestamp="1496644497882">
+        <mark key="'" line="215" column="26" />
+      </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>
@@ -53,16 +61,13 @@
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
         <mark key="[" line="254" column="27" />
       </file>
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/PackageProductConfig.java" timestamp="1496643591279" />
       <file name="/fragment.java" timestamp="1496632881259">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/MobilePriceMaker.java" timestamp="1496632445164" />
     </filemarks>
     <jumps>
-      <jump line="111" column="20" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/pom.xml" />
-      <jump line="138" column="25" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/pom.xml" />
-      <jump line="139" column="24" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/pom.xml" />
-      <jump line="142" column="25" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/pom.xml" />
       <jump line="143" column="24" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/pom.xml" />
       <jump line="146" column="25" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/pom.xml" />
       <jump line="147" column="24" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/pom.xml" />
@@ -159,6 +164,10 @@
       <jump line="28" column="24" filename="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spittle.java" />
       <jump line="74" column="32" filename="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryHotelProcessor.java" />
       <jump line="33" column="31" filename="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/packet/executor/DefaultDetailManualExecutor.java" />
+      <jump line="186" column="12" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractPackageProductProcessor.java" />
+      <jump line="25" column="44" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.180/h_hprice_common-1.2.180-sources.jar!/com/qunar/hotel/price/base/commonconf/TaxiCouponConfig.java" />
+      <jump line="215" column="26" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractPackageProductProcessor.java" />
+      <jump line="27" column="44" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.180/h_hprice_common-1.2.180-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageCashCouponConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -171,7 +180,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGFwdEJlYW5Qcm9jZXNzb3JcPg==</text>
+        <text encoding="base64">XDxmaXhlZFByaWNlQ2FySW5mb01hcFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTcGl0dGVyIHVuc2F2ZWQgPSBuZXcgU3BpdHRlcigiamJhdWVyIiwgIjI0aG91cnMiLCAiSmFjayIsICJCYXVlciIpOwo=</text>
@@ -211,9 +220,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGFwdEJlYW5Qcm9jZXNzb3JcPg==</last-search>
+      <last-search encoding="base64">XDxmaXhlZFByaWNlQ2FySW5mb01hcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGFwdEJlYW5Qcm9jZXNzb3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaXhlZFByaWNlQ2FySW5mb01hcFw+</last-pattern>
       <last-replace>Money.dollar</last-replace>
       <last-substitute>new Dollar</last-substitute>
       <last-dir>1</last-dir>
@@ -221,10 +230,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HotelConstant</entry>
-        <entry>priceEntry</entry>
-        <entry>priceEntry.displayRoomStatus</entry>
-        <entry>special</entry>
         <entry>scan</entry>
         <entry>context</entry>
         <entry>loger</entry>
@@ -241,6 +246,10 @@
         <entry>TODO</entry>
         <entry encoding="base64">XDxzdXBwbGllckRldGFpbEFnZW50XD4=</entry>
         <entry encoding="base64">XDxhZGFwdEJlYW5Qcm9jZXNzb3JcPg==</entry>
+        <entry encoding="base64">XDxkYW5nY2lcPg==</entry>
+        <entry encoding="base64">XDxwYWNrYWdlQ291cG9uSW5mb01hcFw+</entry>
+        <entry encoding="base64">XDxsb3dEaXNuZXlQcmljZVw+</entry>
+        <entry encoding="base64">XDxmaXhlZFByaWNlQ2FySW5mb01hcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/User/user/g</entry>

@@ -10,7 +10,7 @@
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" timestamp="1496658051684">
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" timestamp="1496663963759">
         <mark key="'" line="240" column="30" />
       </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PriceMaker.java" timestamp="1496632385832" />
@@ -26,16 +26,17 @@
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/CacheGetter.java" timestamp="1496631751500" />
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/points/vest/VestHotelPointsAction.java" timestamp="1496655439711" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/RtCall.java" timestamp="1496631676923" />
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PackageClassProcessUtil.java" timestamp="1496658006228" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PackageClassProcessUtil.java" timestamp="1496663968632" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/PackagePriceProcessor.java" timestamp="1496656251096" />
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/rt/AdditionalPackageParser.java" timestamp="1496656289186" />
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/packet/executor/DefaultDetailManualExecutor.java" timestamp="1496657558795">
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/packet/executor/DefaultDetailManualExecutor.java" timestamp="1496663036528">
         <mark key="'" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/TopicManager.java" timestamp="1496654103384" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/DynPackageProductProcessor.java" timestamp="1496662988760" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.180/h_hprice_common-1.2.180-sources.jar!/com/qunar/hotel/price/bean/HotelPriceDetail.java" timestamp="1496654012345" />
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
@@ -43,7 +44,9 @@
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
         <mark key="[" line="254" column="27" />
       </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryPsProductProcessor.java" timestamp="1496663069512" />
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/PackageProductConfig.java" timestamp="1496657381817" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.180/h_hprice_common-1.2.180-sources.jar!/com/qunar/hotel/price/bean/PackageType.java" timestamp="1496664208600" />
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/FullCalculateExecutor.java" timestamp="1496651210628" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />

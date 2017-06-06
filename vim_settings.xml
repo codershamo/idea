@@ -6,12 +6,16 @@
       <file name="/a.dummy" timestamp="1491373785221">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/AdditionalConfig.java" timestamp="1496717931085">
+        <mark key="'" line="97" column="51" />
+      </file>
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" timestamp="1496663963759">
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" timestamp="1496718426455">
         <mark key="'" line="240" column="30" />
       </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1496717175609" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
       </file>
@@ -35,13 +39,14 @@
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
         <mark key="[" line="254" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.180/h_hprice_common-1.2.180-sources.jar!/com/qunar/hotel/price/bean/PackageType.java" timestamp="1496717444340" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.180/h_hprice_common-1.2.180-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageCashCouponConfig.java" timestamp="1496644983230">
         <mark key="'" line="27" column="44" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1496715870326" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1496718252318" />
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/bean/PriceApiUtils.java" timestamp="1496712136181" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
@@ -52,8 +57,12 @@
       <file name="/Dummy.txt" timestamp="1496655667278">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractPackageProductProcessor.java" timestamp="1496657798915">
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/HotelCouponConfig.java" timestamp="1496716597452" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractPackageProductProcessor.java" timestamp="1496719103383">
         <mark key="'" line="215" column="26" />
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="295" column="0" />
+        <mark key="." line="295" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
@@ -63,7 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="24" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/pom.xml" />
       <jump line="154" column="25" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/pom.xml" />
       <jump line="49" column="24" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workplace/hotel_hslist/src/main/webapp/WEB-INF/web.xml" />
@@ -163,10 +171,11 @@
       <jump line="235" column="30" filename="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" />
       <jump line="238" column="12" filename="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" />
       <jump line="240" column="30" filename="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" />
+      <jump line="97" column="51" filename="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/AdditionalConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSZWVudHJhbnRMb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -175,49 +184,49 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcG1GcmVlXD4=</text>
+        <text encoding="base64">XDxwYWNrYWdlQ291cG9uQ29uZmlnXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTcGl0dGVyIHVuc2F2ZWQgPSBuZXcgU3BpdHRlcigiamJhdWVyIiwgIjI0aG91cnMiLCAiSmFjayIsICJCYXVlciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZWVudHJhbnRMb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LVhsb2dnYzpnYy5sb2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKCJQYWNrYWdlUHJvZHVjdFByb2Nlc3Nvcl9BZGRQYWNrYWdlIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LVhsb2dnYzpnYy5sb2cKLXZlcmJvc2U6Z2MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dChsb3dQYWNrYWdlUHJpY2UsIGJlc3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LXNlcnZlcgo=</text>
+        <text encoding="base64">ICAgICAgICBSZWVudHJhbnRMb2NrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LVhYOitVc2VDb25jTWFya1N3ZWVwR0MK</text>
+        <text encoding="base64">LVhsb2dnYzpnYy5sb2cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrUmVwb3NpdG9yeS5zYXZlKHVuc2F2ZWQpOwo=</text>
+        <text encoding="base64">LVhsb2dnYzpnYy5sb2cKLXZlcmJvc2U6Z2MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">LXNlcnZlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgcmV0dXJuIEVxdWFsc0J1aWxkZXIucmVmbGVjdGlvbkVxdWFscyhvLCB0aGlzKTsKICAgIH0K</text>
+        <text encoding="base64">LVhYOitVc2VDb25jTWFya1N3ZWVwR0MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7CgogICAgICAgIFNwaXR0ZXIgc3BpdHRlciA9IChTcGl0dGVyKSBvOwoKICAgICAgICBpZiAoaWQgIT0gc3BpdHRlci5pZCkgcmV0dXJuIGZhbHNlOwogICAgICAgIGlmIChmaXJzdE5hbWUgIT0gbnVsbCA/ICFmaXJzdE5hbWUuZXF1YWxzKHNwaXR0ZXIuZmlyc3ROYW1lKSA6IHNwaXR0ZXIuZmlyc3ROYW1lICE9IG51bGwpIHJldHVybiBmYWxzZTsKICAgICAgICBpZiAobGFzdE5hbWUgIT0gbnVsbCA/ICFsYXN0TmFtZS5lcXVhbHMoc3BpdHRlci5sYXN0TmFtZSkgOiBzcGl0dGVyLmxhc3ROYW1lICE9IG51bGwpIHJldHVybiBmYWxzZTsKICAgICAgICBpZiAodXNlcm5hbWUgIT0gbnVsbCA/ICF1c2VybmFtZS5lcXVhbHMoc3BpdHRlci51c2VybmFtZSkgOiBzcGl0dGVyLnVzZXJuYW1lICE9IG51bGwpIHJldHVybiBmYWxzZTsKICAgICAgICByZXR1cm4gcGFzc3dvcmQgIT0gbnVsbCA/IHBhc3N3b3JkLmVxdWFscyhzcGl0dGVyLnBhc3N3b3JkKSA6IHNwaXR0ZXIucGFzc3dvcmQgPT0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrUmVwb3NpdG9yeS5zYXZlKHVuc2F2ZWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcG1GcmVlXD4=</last-search>
+      <last-search encoding="base64">XDxwYWNrYWdlQ291cG9uQ29uZmlnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcG1GcmVlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYWNrYWdlQ291cG9uQ29uZmlnXD4=</last-pattern>
       <last-replace>Money.dollar</last-replace>
       <last-substitute>new Dollar</last-substitute>
       <last-dir>1</last-dir>
@@ -225,7 +234,6 @@
     </search>
     <history>
       <history-search>
-        <entry>context</entry>
         <entry>loger</entry>
         <entry>root</entry>
         <entry>datalogger.hprice.CECloseRoomLogger</entry>
@@ -245,6 +253,7 @@
         <entry encoding="base64">XDxsb3dEaXNuZXlQcmljZVw+</entry>
         <entry encoding="base64">XDxmaXhlZFByaWNlQ2FySW5mb01hcFw+</entry>
         <entry encoding="base64">XDxwcG1GcmVlXD4=</entry>
+        <entry encoding="base64">XDxwYWNrYWdlQ291cG9uQ29uZmlnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/User/user/g</entry>

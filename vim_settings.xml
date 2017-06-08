@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/CashVoucherCommissionFilterProcessor.java" timestamp="1496834394583">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="37" column="130" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/CashVoucherCommissionFilterProcessor.java" timestamp="1496892077166">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="43" column="26" />
       </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1496829780315">
         <mark key="[" line="194" column="13" />
@@ -18,7 +18,7 @@
         <mark key="^" line="196" column="35" />
         <mark key="." line="196" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1496833748889">
+      <file name="/a.dummy" timestamp="1496892199850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
@@ -28,6 +28,12 @@
         <mark key="[" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1496885198469" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1496892604998">
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="62" column="48" />
+        <mark key="." line="62" column="48" />
+        <mark key="^" line="62" column="48" />
+      </file>
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
       </file>
@@ -43,7 +49,7 @@
         <mark key="^" line="26" column="42" />
         <mark key="." line="26" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496889203544">
+      <file name="/Dummy.txt" timestamp="1496893868330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/util/ActivityDescriptionUtil.java" timestamp="1496885441458" />
@@ -56,11 +62,11 @@
         <mark key="." line="36" column="66" />
         <mark key="^" line="36" column="66" />
       </file>
-      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" timestamp="1496888000897">
-        <mark key="[" line="294" column="5" />
-        <mark key="]" line="299" column="29" />
-        <mark key="^" line="299" column="29" />
-        <mark key="." line="299" column="29" />
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" timestamp="1496893856686">
+        <mark key="[" line="266" column="37" />
+        <mark key="]" line="266" column="48" />
+        <mark key="^" line="266" column="48" />
+        <mark key="." line="266" column="48" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
@@ -179,10 +185,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>contains</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>contains</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -194,34 +200,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFQSVJlc3BvbnNlLnJldHVybkZhaWwoIrvutq/Du9PQxeTWw8q508POxLC4Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLzIuuPm+3b/itOa6zdPDu6dJRLLp0a/Ir8Lr0MXPogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGludmVudG9yeUlkID0gTG9uZy5wYXJzZUxvbmcoaW52ZW50b3J5SWRTdHIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFDb2xsZWN0aW9uVXRpbHMuY29udGFpbnNBbnkodG9GaWx0ZXJBY3Rpdml0eUlkcywgb2xkQWN0aXZpdHlJZHMpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFiaXRDb250YWluc0FjdGl2aXR5VHlwZShhY3Rpdml0eVR5cGUoKSwgcHJpY2VFbnRyeS5nZXRCaXQoKSkpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBBY3Rpdml0eVV0aWxzLgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTZXQ8QWN0aXZpdHlUeXBlPiBvcmlnaW5hbEFjdGl2aXRpZXMgPSBBY3Rpdml0eVV0aWxzLmdldEFjdGl2aXRpZXMob3JpZ2luYWxCaXQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFwcm9jZXNzICYmIGlzUmVzdCkgewogICAgICAgICAgICAgICAgcHJvY2VzcyA9IHRydWU7CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzUmVzdCA9IGZhbHNlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc1Jlc3QgPSByZVNldENhc2hWb3VjaGVyKHByaWNlRW50cnksIGludGVyc2VjdGlvbkFjdGl2aXR5SWRzKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5wcmljZS5yb290LmJlYW5zLnRpbWUuU2hvcnREYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLzIuuPm+3b/itOa6zdPDu6dJRLLp0a/Ir8Lr0MXPogo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

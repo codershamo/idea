@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
-        <mark key="[" line="15" column="28" />
-      </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/CashVoucherCommissionFilterProcessor.java" timestamp="1496892077166">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="43" column="26" />
-        <mark key="." line="43" column="26" />
-        <mark key="^" line="43" column="26" />
-      </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractActivityProcessor.java" timestamp="1496894456882" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1496829780315">
         <mark key="[" line="194" column="13" />
         <mark key="]" line="196" column="35" />
@@ -32,26 +22,8 @@
         <mark key="[" line="9" column="19" />
       </file>
       <file name="/ProductBenefitController.java" timestamp="1496895913139" />
-      <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
-        <mark key="[" line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1496885198469" />
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1496902785411">
-        <mark key="[" line="85" column="20" />
-        <mark key="]" line="85" column="23" />
-        <mark key="." line="85" column="23" />
-        <mark key="^" line="85" column="23" />
-      </file>
-      <file name="$USER_HOME$/workplace/h_hprice_common/pom.xml" timestamp="1496902773157">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-      </file>
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1494053038074">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/service/impl/OffLineCouponServiceImpl.java" timestamp="1479176137915">
         <mark key="[" line="10" column="8" />
@@ -62,9 +34,6 @@
         <mark key="^" line="26" column="42" />
         <mark key="." line="26" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496901995799">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/ActivityRiskControlConfig.java" timestamp="1496903347900">
         <mark key="[" line="51" column="22" />
         <mark key="]" line="51" column="22" />
@@ -74,12 +43,6 @@
       <file name="$USER_HOME$/workplace/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/util/ActivityDescriptionUtil.java" timestamp="1496885441458" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
-      </file>
-      <file name="$USER_HOME$/workplace/springtest/src/test/java/com/qunar/example/bean/CDPlayerTest.java" timestamp="1496894895995">
-        <mark key="[" line="63" column="5" />
-        <mark key="]" line="64" column="7" />
-        <mark key="^" line="64" column="7" />
-        <mark key="." line="64" column="7" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/web/SpittleController.java" timestamp="1496887996605">
         <mark key="[" line="36" column="64" />
@@ -93,14 +56,56 @@
         <mark key="^" line="264" column="31" />
         <mark key="." line="264" column="31" />
       </file>
-      <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
-        <mark key="[" line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
         <mark key="[" line="254" column="27" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
+        <mark key="[" line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/CashVoucherCommissionFilterProcessor.java" timestamp="1496892077166">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="43" column="26" />
+      </file>
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractActivityProcessor.java" timestamp="1496894456882" />
+      <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
+        <mark key="[" line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1496885198469" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/pom.xml" timestamp="1496903462456">
+        <mark key="[" line="25" column="73" />
+        <mark key="]" line="25" column="73" />
+        <mark key="." line="25" column="73" />
+      </file>
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1496903585248">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="34" column="11" />
+      </file>
+      <file name="$USER_HOME$/workplace/h_hprice_common/pom.xml" timestamp="1496903458487">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1494053038074">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1496903350310">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/springtest/src/test/java/com/qunar/example/bean/CDPlayerTest.java" timestamp="1496894895995">
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+      </file>
+      <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
+        <mark key="[" line="71" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1496754492614">
         <mark key="[" line="0" column="0" />
@@ -210,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="m" type="4">
         <text />

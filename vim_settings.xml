@@ -83,11 +83,11 @@
         <mark key="]" line="25" column="73" />
         <mark key="." line="25" column="73" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1496903585248">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
-        <mark key="^" line="34" column="11" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1496909351300">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="51" column="16" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_common/pom.xml" timestamp="1496908984998">
         <mark key="[" line="14" column="13" />
@@ -103,7 +103,7 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496909166575">
+      <file name="/Dummy.txt" timestamp="1496909353054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/test/java/com/qunar/example/bean/CDPlayerTest.java" timestamp="1496894895995">
@@ -223,10 +223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>null</text>
       </register>
       <register name="m" type="4">
         <text />

@@ -50,7 +50,12 @@
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
-      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" timestamp="1496886025593" />
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" timestamp="1496887123340">
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="261" column="73" />
+        <mark key="^" line="261" column="73" />
+        <mark key="." line="261" column="73" />
+      </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>
@@ -167,11 +172,11 @@
       <jump line="24" column="39" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13209-20170512-package-XConfig-SNAPSHOT/h_hprice_common-DZS-13209-20170512-package-XConfig-20170605.033915-34-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageProductInfoConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Collection</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -180,7 +185,7 @@
         <text encoding="base64">XDxmcmVlQ291cG9uSW5mb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTcGl0dGVyIHVuc2F2ZWQgPSBuZXcgU3BpdHRlcigiamJhdWVyIiwgIjI0aG91cnMiLCAiSmFjayIsICJCYXVlciIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFQSVJlc3BvbnNlLnJldHVybkZhaWwoIrvutq/Du9PQxeTWw8q508POxLC4Iik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -189,28 +194,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFDb2xsZWN0aW9uVXRpbHMuY29udGFpbnNBbnkodG9GaWx0ZXJBY3Rpdml0eUlkcywgb2xkQWN0aXZpdHlJZHMpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFiaXRDb250YWluc0FjdGl2aXR5VHlwZShhY3Rpdml0eVR5cGUoKSwgcHJpY2VFbnRyeS5nZXRCaXQoKSkpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFDb2xsZWN0aW9uVXRpbHMuY29udGFpbnNBbnkodG9GaWx0ZXJBY3Rpdml0eUlkcywgb2xkQWN0aXZpdHlJZHMpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBY3Rpdml0eVV0aWxzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5wcmljZS5yb290LmJlYW5zLnRpbWUuU2hvcnREYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFiaXRDb250YWluc0FjdGl2aXR5VHlwZShhY3Rpdml0eVR5cGUoKSwgcHJpY2VFbnRyeS5nZXRCaXQoKSkpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEuYmFzZS5kYXRldGltZS5iZWFuLlNob3J0RGF0ZTsK</text>
+        <text encoding="base64">ICAgICAgICBBY3Rpdml0eVV0aWxzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiZW5lZml0cy5zdHJlYW0oKS5maWx0ZXIoeC0+eC5nZXRBY3Rpb25JZCgpKS5jb2xsZWN0KENvbGxlY3RvcnMuPFFPcmRlckJlbmVmaXQ+dG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5wcmljZS5yb290LmJlYW5zLnRpbWUuU2hvcnREYXRlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEuYmFzZS5kYXRldGltZS5iZWFuLlNob3J0RGF0ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

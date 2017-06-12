@@ -91,7 +91,7 @@
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/roomstatus/MobileYSS2Filter.java" timestamp="1497249717570" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-demo/dubbo-demo-provider/src/main/resources/META-INF/spring/dubbo-demo-provider.xml" timestamp="1497260662999" />
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/bytecode/Proxy.java" timestamp="1497271703165" />
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/bytecode/Proxy.java" timestamp="1497271953711" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1496908157332">
         <mark key="[" line="69" column="28" />
         <mark key="]" line="69" column="29" />

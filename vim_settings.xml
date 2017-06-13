@@ -19,7 +19,7 @@
         <mark key="^" line="196" column="35" />
         <mark key="." line="196" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1496895412594">
+      <file name="/a.dummy" timestamp="1497325415946">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
@@ -34,7 +34,12 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PerfectPlanProcessor.java" timestamp="1497323978481" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PerfectPlanProcessor.java" timestamp="1497325630882">
+        <mark key="[" line="142" column="36" />
+        <mark key="]" line="143" column="89" />
+        <mark key="^" line="143" column="89" />
+        <mark key="." line="143" column="89" />
+      </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1496908157332">
         <mark key="[" line="69" column="28" />
         <mark key="]" line="69" column="29" />
@@ -214,11 +219,11 @@
       <jump line="24" column="39" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13209-20170512-package-XConfig-SNAPSHOT/h_hprice_common-DZS-13209-20170512-package-XConfig-20170605.033915-34-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageProductInfoConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwb29sLgo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>orderProduct</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <text />

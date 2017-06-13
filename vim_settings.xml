@@ -3,24 +3,48 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-demo/dubbo-demo-consumer/src/main/java/com/alibaba/dubbo/demo/consumer/DemoAction.java" timestamp="1497259738448" />
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
+        <mark key="[" line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/CashVoucherCommissionFilterProcessor.java" timestamp="1496892077166">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="43" column="26" />
+      </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1496829780315">
         <mark key="[" line="194" column="13" />
         <mark key="]" line="196" column="35" />
         <mark key="^" line="196" column="35" />
         <mark key="." line="196" column="35" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/1.4.82/order-core-api-1.4.82.jar!/com/qunar/hotel/qta/order/core/api/bean/order/MainOrder.class" timestamp="1497271024368" />
       <file name="/a.dummy" timestamp="1496895412594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PerfectPlanProcessor.java" timestamp="1497249914692" />
-      <file name="$USER_HOME$/workplace/open-promotion/pom.xml" timestamp="1497267962578" />
+      <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
+        <mark key="[" line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1497248130786">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="51" column="16" />
+      </file>
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PerfectPlanProcessor.java" timestamp="1497322332580" />
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1496908157332">
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="69" column="29" />
+        <mark key="." line="69" column="29" />
+        <mark key="^" line="69" column="29" />
+      </file>
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1494053038074">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/service/impl/OffLineCouponServiceImpl.java" timestamp="1479176137915">
         <mark key="[" line="10" column="8" />
@@ -31,23 +55,29 @@
         <mark key="^" line="26" column="42" />
         <mark key="." line="26" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/1.4.82/order-core-api-1.4.82.jar!/com/qunar/hotel/qta/order/core/api/bean/order/OrderProductBase.class" timestamp="1497270516863" />
       <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/ActivityRiskControlConfig.java" timestamp="1496903347900">
         <mark key="[" line="51" column="22" />
         <mark key="]" line="51" column="22" />
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="22" />
       </file>
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/RpcInvocation.java" timestamp="1497259809600" />
+      <file name="/Dummy.txt" timestamp="1497261907312">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/pom.xml" timestamp="1497267950276">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="11" column="68" />
         <mark key="^" line="11" column="68" />
         <mark key="." line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-container/dubbo-container-spring/src/main/java/com/alibaba/dubbo/container/spring/SpringContainer.java" timestamp="1497257795047" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
+      </file>
+      <file name="$USER_HOME$/workplace/springtest/src/test/java/com/qunar/example/bean/CDPlayerTest.java" timestamp="1496894895995">
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+        <mark key="." line="64" column="7" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/web/SpittleController.java" timestamp="1496887996605">
         <mark key="[" line="36" column="64" />
@@ -61,69 +91,21 @@
         <mark key="^" line="264" column="31" />
         <mark key="." line="264" column="31" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-14230_20170607_tujia_voucher-SNAPSHOT/h_hprice_common-DZS-14230_20170607_tujia_voucher-20170608.075952-1-sources.jar!/com/qunar/hotel/price/bean/PriceEntry.java" timestamp="1497240278952" />
-      <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
-        <mark key="[" line="10" column="16" />
-      </file>
-      <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
-        <mark key="[" line="254" column="27" />
-      </file>
-      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
-        <mark key="[" line="15" column="28" />
-      </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/CashVoucherCommissionFilterProcessor.java" timestamp="1496892077166">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="43" column="26" />
-        <mark key="." line="43" column="26" />
-        <mark key="^" line="43" column="26" />
-      </file>
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-demo/dubbo-demo-provider/src/test/java/com/alibaba/dubbo/demo/provider/DemoProvider.java" timestamp="1497252517193" />
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/ComparingPriceProcess.java" timestamp="1497249730430" />
-      <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
-        <mark key="[" line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-demo/dubbo-demo-consumer/src/main/resources/META-INF/spring/dubbo-demo-action.xml" timestamp="1497260647455" />
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1497248130786">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="16" />
-        <mark key="." line="51" column="16" />
-        <mark key="^" line="51" column="16" />
-      </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/roomstatus/MobileYSS2Filter.java" timestamp="1497249717570" />
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-demo/dubbo-demo-provider/src/main/resources/META-INF/spring/dubbo-demo-provider.xml" timestamp="1497260662999" />
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/bytecode/Proxy.java" timestamp="1497271953711" />
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1496908157332">
-        <mark key="[" line="69" column="28" />
-        <mark key="]" line="69" column="29" />
-        <mark key="." line="69" column="29" />
-        <mark key="^" line="69" column="29" />
-      </file>
-      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources/spring/dubbo/dubbo-pub.xml" timestamp="1497266247897" />
-      <file name="/HTML File.txt.ft" timestamp="1494053038074">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1497261907312">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/1.4.82/order-core-api-1.4.82.jar!/com/qunar/hotel/qta/order/core/api/bean/order/OrderProduct.class" timestamp="1497269132952" />
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-container/dubbo-container-api/src/main/java/com/alibaba/dubbo/container/Main.java" timestamp="1497261389311" />
-      <file name="$USER_HOME$/workplace/springtest/src/test/java/com/qunar/example/bean/CDPlayerTest.java" timestamp="1496894895995">
-        <mark key="[" line="63" column="5" />
-        <mark key="]" line="64" column="7" />
-        <mark key="^" line="64" column="7" />
-        <mark key="." line="64" column="7" />
-      </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-demo/dubbo-demo-consumer/src/main/resources/META-INF/spring/dubbo-demo-consumer.xml" timestamp="1497260672440" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/javassit/JavassitTest.java" timestamp="1497271010568">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="29" column="29" />
         <mark key="." line="29" column="29" />
         <mark key="^" line="29" column="29" />
       </file>
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/ConfigUtils.java" timestamp="1497260992328" />
+      <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
+        <mark key="[" line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
+        <mark key="[" line="254" column="27" />
+      </file>
       <file name="/fragment.java" timestamp="1496754492614">
         <mark key="[" line="0" column="0" />
       </file>

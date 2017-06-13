@@ -12,6 +12,7 @@
         <mark key="." line="43" column="26" />
         <mark key="^" line="43" column="26" />
       </file>
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/protocol/ProtocolFilterWrapper.java" timestamp="1497358539634" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1496829780315">
         <mark key="[" line="194" column="13" />
         <mark key="]" line="196" column="35" />
@@ -38,6 +39,7 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/com/alibaba/dubbo/cache/filter/CacheFilter.java" timestamp="1497359016196" />
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1497248130786">
         <mark key="[" line="51" column="15" />
         <mark key="]" line="51" column="16" />
@@ -50,6 +52,13 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF/people.xsd" timestamp="1497359524509">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/filter/EchoFilter.java" timestamp="1497358761883" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/json/Test.java" timestamp="1497335323516">
         <mark key="[" line="33" column="61" />
         <mark key="]" line="33" column="11" />
@@ -106,6 +115,9 @@
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
+        <mark key="[" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/pom.xml" timestamp="1497267950276">
         <mark key="[" line="10" column="16" />
@@ -274,11 +286,11 @@
       <jump line="24" column="39" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13209-20170512-package-XConfig-SNAPSHOT/h_hprice_common-DZS-13209-20170512-package-XConfig-20170605.033915-34-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageProductInfoConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>plus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0YXJnZXROYW1lc3BhY2UK</text>
       </register>
       <register name="-" type="4">
-        <text>plus</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -290,34 +302,34 @@
         <text encoding="base64">c3BpLnBsdXMuUGx1c09wZXJhdGlvbkltcGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqagogICAgICAgIElPcGVyYXRpb24gZGl2aXNpb24gPSBuZXcgRGl2aXNpb25PcGVyYXRpb25JbXBsKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBsdXMub3BlcmF0aW9uKDUsIDMpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGl2aXNpb24ub3BlcmF0aW9uKDksIDMpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXROYW1lc3BhY2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJT3BlcmF0aW9uIHBsdXMgPSBuZXcgUGx1c09wZXJhdGlvbkltcGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICBqagogICAgICAgIElPcGVyYXRpb24gZGl2aXNpb24gPSBuZXcgRGl2aXNpb25PcGVyYXRpb25JbXBsKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBsdXMub3BlcmF0aW9uKDUsIDMpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGl2aXNpb24ub3BlcmF0aW9uKDksIDMpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFNQSQo=</text>
+        <text encoding="base64">ICAgICAgICBJT3BlcmF0aW9uIHBsdXMgPSBuZXcgUGx1c09wZXJhdGlvbkltcGwoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3BpLnBsdXMuUGx1c09wZXJhdGlvbkltcGwK</text>
+        <text encoding="base64">QFNQSQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c3BpLnBsdXMuUGx1c09wZXJhdGlvbkltcGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNlcnZpY2VMb2FkZXIubG9hZChJT3BlcmF0aW9uLmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcucGFyc2UoY29udGVudCk7Cg==</text>
+        <text encoding="base64">ICAgIFNlcnZpY2VMb2FkZXIubG9hZChJT3BlcmF0aW9uLmNsYXNzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29udGVudCA9ICJ7XCJvblwiOmZhbHNlLFwiaG90ZWxTZXFcIjpbXCJ0ZXN0X29ubHkyXzEwXCJdLFwiaWQyUHJpY2VcIjp7XCIxMTExXCI6MTB9fSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcucGFyc2UoY29udGVudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

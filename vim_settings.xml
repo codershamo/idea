@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
-        <mark key="[" line="15" column="28" />
-      </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/CashVoucherCommissionFilterProcessor.java" timestamp="1496892077166">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="43" column="26" />
-        <mark key="." line="43" column="26" />
-        <mark key="^" line="43" column="26" />
-      </file>
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/protocol/ProtocolFilterWrapper.java" timestamp="1497358539634" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1496829780315">
         <mark key="[" line="194" column="13" />
         <mark key="]" line="196" column="35" />
@@ -36,34 +26,11 @@
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
-        <mark key="[" line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/com/alibaba/dubbo/cache/filter/CacheFilter.java" timestamp="1497359016196" />
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1497248130786">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="16" />
-        <mark key="." line="51" column="16" />
-        <mark key="^" line="51" column="16" />
-      </file>
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF/services/spi.IOperation" timestamp="1497357229857">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="1" column="7" />
-      </file>
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF/people.xsd" timestamp="1497359524509">
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
-      </file>
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/filter/EchoFilter.java" timestamp="1497358761883" />
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/json/Test.java" timestamp="1497335323516">
-        <mark key="[" line="33" column="61" />
-        <mark key="]" line="33" column="11" />
-        <mark key="^" line="33" column="11" />
-        <mark key="." line="33" column="11" />
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF/people.xsd" timestamp="1497361543769">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="57" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PerfectPlanProcessor.java" timestamp="1497339317214">
         <mark key="[" line="66" column="105" />
@@ -71,23 +38,21 @@
         <mark key="^" line="66" column="105" />
         <mark key="." line="66" column="105" />
       </file>
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1496908157332">
-        <mark key="[" line="69" column="28" />
-        <mark key="]" line="69" column="29" />
-        <mark key="." line="69" column="29" />
-        <mark key="^" line="69" column="29" />
-      </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/ExtensionLoader.java" timestamp="1497357478962" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
       </file>
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/Main.java" timestamp="1497357153992">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/bean.xml" timestamp="1497361818194">
+        <mark key="[" line="5" column="104" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1494053038074">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/Main.java" timestamp="1497361489202">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="37" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/service/impl/OffLineCouponServiceImpl.java" timestamp="1479176137915">
         <mark key="[" line="10" column="8" />
@@ -104,17 +69,11 @@
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497344637880">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/DivisionOperationImpl.java" timestamp="1497342556868">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="9" column="32" />
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
-      </file>
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
-        <mark key="[" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />
@@ -131,14 +90,14 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF/spring.schemas" timestamp="1497361338058">
+        <mark key="[" line="0" column="65" />
+        <mark key="]" line="0" column="65" />
+        <mark key="^" line="0" column="65" />
+        <mark key="." line="0" column="65" />
+      </file>
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
-      </file>
-      <file name="$USER_HOME$/workplace/springtest/src/test/java/com/qunar/example/bean/CDPlayerTest.java" timestamp="1496894895995">
-        <mark key="[" line="63" column="5" />
-        <mark key="]" line="64" column="7" />
-        <mark key="^" line="64" column="7" />
-        <mark key="." line="64" column="7" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/web/SpittleController.java" timestamp="1496887996605">
         <mark key="[" line="36" column="64" />
@@ -151,6 +110,89 @@
         <mark key="]" line="264" column="31" />
         <mark key="^" line="264" column="31" />
         <mark key="." line="264" column="31" />
+      </file>
+      <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
+        <mark key="[" line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/MyNamespaceHandler.java" timestamp="1497361557577">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="79" />
+        <mark key="^" line="12" column="79" />
+        <mark key="." line="12" column="79" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
+        <mark key="[" line="254" column="27" />
+      </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF.services/spi.IOperation" timestamp="1497343334999">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
+        <mark key="[" line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/CashVoucherCommissionFilterProcessor.java" timestamp="1496892077166">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="43" column="26" />
+      </file>
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/protocol/ProtocolFilterWrapper.java" timestamp="1497358539634" />
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/PeopleBeanDefinitionParser.java" timestamp="1497361594561">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="28" column="62" />
+        <mark key="^" line="28" column="62" />
+        <mark key="." line="28" column="62" />
+      </file>
+      <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
+        <mark key="[" line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/com/alibaba/dubbo/cache/filter/CacheFilter.java" timestamp="1497359016196" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1497248130786">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="51" column="16" />
+      </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF/services/spi.IOperation" timestamp="1497357229857">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/filter/EchoFilter.java" timestamp="1497358761883" />
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/json/Test.java" timestamp="1497335323516">
+        <mark key="[" line="33" column="61" />
+        <mark key="]" line="33" column="11" />
+        <mark key="^" line="33" column="11" />
+        <mark key="." line="33" column="11" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1496908157332">
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="69" column="29" />
+        <mark key="." line="69" column="29" />
+        <mark key="^" line="69" column="29" />
+      </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/Main.java" timestamp="1497357153992">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1494053038074">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1497344637880">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
+        <mark key="[" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/workplace/springtest/src/test/java/com/qunar/example/bean/CDPlayerTest.java" timestamp="1496894895995">
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+        <mark key="." line="64" column="7" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
@@ -167,17 +209,11 @@
         <mark key="." line="29" column="103" />
         <mark key="^" line="29" column="103" />
       </file>
-      <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
-        <mark key="[" line="10" column="16" />
-      </file>
-      <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
-        <mark key="[" line="254" column="27" />
-      </file>
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF.services/spi.IOperation" timestamp="1497343334999">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF/spring.handlers" timestamp="1497361027525">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
+        <mark key="^" line="0" column="50" />
       </file>
       <file name="/fragment.java" timestamp="1497343489364">
         <mark key="[" line="0" column="0" />
@@ -286,11 +322,11 @@
       <jump line="24" column="39" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13209-20170512-package-XConfig-SNAPSHOT/h_hprice_common-DZS-13209-20170512-package-XConfig-20170605.033915-34-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageProductInfoConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXROYW1lc3BhY2UK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="m" type="4">
         <text />

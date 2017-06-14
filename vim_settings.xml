@@ -124,7 +124,7 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497440227361">
+      <file name="/Dummy.txt" timestamp="1497441497694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/VoucherChangeAction.java" timestamp="1497422382875" />
@@ -133,6 +133,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.61/open-promotion-api-1.1.61.jar!/com/qunar/hotel/qta/open/promotion/api/context/OrderChangeContext.class" timestamp="1497422241626" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" timestamp="1497426235743" />
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/storage/CouponStoreServiceImpl.java" timestamp="1497441627392" />
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" timestamp="1497431327839">
         <mark key="[" line="1963" column="36" />
         <mark key="]" line="1963" column="17" />
@@ -142,6 +143,12 @@
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/com.alibaba.dubbo.common.compiler.Compiler" timestamp="1497413782782" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/userId/UserIdTableTest.java" timestamp="1497441680328">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/promo/interceptor/gift/share/GiftShareRewardExceedInterceptor.java" timestamp="1497436481175" />
       <file name="/fragment.java" timestamp="1497343489364">
@@ -252,10 +259,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>commonSmallBiz</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>commonSmallBiz</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -267,28 +274,28 @@
         <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0icXVuYXIudGMucWNsaWVudC5yZWRpcy5pbXBsLkNsdXN0ZXJTZXNzaW9uTG9jYXRvciIgbGV2ZWw9IklORk8iIGFkZGl0aXZpdHk9ImZhbHNlIj4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iY29uc29sZSIvPgogICAgPC9sb2dnZXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bGF5b3V0IGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLlBhdHRlcm5MYXlvdXQiPgogICAgICAgICAgICA8cGF0dGVybj4lLTIwKCVke0hIOm1tOnNzLlNTU30gWyV0aHJlYWRdKSAlLTVsZXZlbCAlbG9nZ2VyezgwfSAtICVtc2clbjwvcGF0dGVybj4KICAgICAgICA8L2xheW91dD4K</text>
+        <text encoding="base64">ICAgIGxvbmcgdG1wID0gdXNlcklkIF4gKHVzZXJJZCA+Pj4gMTYpOwogICAgbG9uZyByZXN1bHQgPSAodG1wIF4gKHRtcCA+Pj4gOCkpICUgVEFCTEVfU0laRTsKICAgICAgICByZXR1cm4gZ2V0VGFibGVOYW1lKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICChoaGhoaGhoQo=</text>
+        <text encoding="base64">ICAgICAgICA8bGF5b3V0IGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLlBhdHRlcm5MYXlvdXQiPgogICAgICAgICAgICA8cGF0dGVybj4lLTIwKCVke0hIOm1tOnNzLlNTU30gWyV0aHJlYWRdKSAlLTVsZXZlbCAlbG9nZ2VyezgwfSAtICVtc2clbjwvcGF0dGVybj4KICAgICAgICA8L2xheW91dD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICChoaGhoaGhoQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgoaGhoaGhoaGhoaGhCg==</text>
+        <text encoding="base64">ICAgICAgICChoaGhoaGhoQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgoaGhoaGhoaGhoaGhCg==</text>
+        <text encoding="base64">ICAgICAgICChoaGhoaGhoQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgoaGhoaGhoaGhoaGhCg==</text>

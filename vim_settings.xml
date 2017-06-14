@@ -95,7 +95,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.61/open-promotion-api-1.1.61.jar!/com/qunar/hotel/qta/open/promotion/api/context/OrderChangeContext.class" timestamp="1497422241626" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" timestamp="1497422523620" />
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" timestamp="1497424068355" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" timestamp="1497425658086" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/com.alibaba.dubbo.common.compiler.Compiler" timestamp="1497413782782" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />

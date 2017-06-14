@@ -26,12 +26,16 @@
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF/people.xsd" timestamp="1497361543769">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="57" />
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/compiler/Compiler.java" timestamp="1497407445962" />
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PerfectPlanProcessor.java" timestamp="1497339317214">
         <mark key="[" line="66" column="105" />
         <mark key="]" line="66" column="105" />
@@ -84,6 +88,7 @@
         <mark key="^" line="11" column="68" />
         <mark key="." line="11" column="68" />
       </file>
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-container/dubbo-container-spring/src/main/java/com/alibaba/dubbo/container/spring/SpringContainer.java" timestamp="1497407070086" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/PlusOperationImpl.java" timestamp="1497342533473">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="31" />

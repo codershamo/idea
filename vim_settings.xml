@@ -25,7 +25,7 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
-      <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/promo/processor/GiftSharePromoProcessor.java" timestamp="1497435389217" />
+      <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/promo/processor/GiftSharePromoProcessor.java" timestamp="1497436524897" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/compiler/Compiler.java" timestamp="1497407445962" />
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PerfectPlanProcessor.java" timestamp="1497431323109">
         <mark key="[" line="34" column="84" />
@@ -72,11 +72,14 @@
         <mark key="." line="9" column="2" />
       </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-container/dubbo-container-spring/src/main/java/com/alibaba/dubbo/container/spring/SpringContainer.java" timestamp="1497407070086" />
+      <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/qmq/listener/PromoBonusMessageConsumer.java" timestamp="1497435893400" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
+      <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/coupon/impl/CouponBizImpl.java" timestamp="1497436380893" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" timestamp="1497422209096" />
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/VoucherResumeAction.java" timestamp="1497422965851" />
+      <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/promo/interceptor/gift/share/GiftShareCouponInterceptor.java" timestamp="1497436539616" />
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/PromoBalanceChangeAction.java" timestamp="1497422342986" />
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
@@ -101,10 +104,11 @@
         <mark key="^" line="28" column="62" />
         <mark key="." line="28" column="62" />
       </file>
+      <file name="$USER_HOME$/workplace/touch/touch-model/src/main/java/com/qunar/hotel/hoteltc/touch/model/gift/status/RewardQualified.java" timestamp="1497436544581" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/promo/processor/GiftRecordPromoProcessor.java" timestamp="1497435270047" />
+      <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/promo/processor/GiftRecordPromoProcessor.java" timestamp="1497435669848" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/com/alibaba/dubbo/cache/filter/CacheFilter.java" timestamp="1497359016196" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/SPI.java" timestamp="1497433267601" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/logback.xml" timestamp="1497430458834" />
@@ -120,7 +124,7 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497435371871">
+      <file name="/Dummy.txt" timestamp="1497436486272">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/VoucherChangeAction.java" timestamp="1497422382875" />
@@ -139,6 +143,7 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/promo/interceptor/gift/share/GiftShareRewardExceedInterceptor.java" timestamp="1497436481175" />
       <file name="/fragment.java" timestamp="1497343489364">
         <mark key="[" line="0" column="0" />
       </file>

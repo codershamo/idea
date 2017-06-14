@@ -18,12 +18,14 @@
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/touch/touch-web/src/main/java/com/qunar/hotel/hoteltc/touch/web/gift/share/GiftShareController.java" timestamp="1497435368936" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/META-INF/people.xsd" timestamp="1497361543769">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="57" />
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
+      <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/promo/processor/GiftSharePromoProcessor.java" timestamp="1497435389217" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/compiler/Compiler.java" timestamp="1497407445962" />
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PerfectPlanProcessor.java" timestamp="1497431323109">
         <mark key="[" line="34" column="84" />
@@ -102,6 +104,7 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/workplace/touch/touch-biz/src/main/java/com/qunar/hotel/hoteltc/touch/biz/promo/processor/GiftRecordPromoProcessor.java" timestamp="1497435270047" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/com/alibaba/dubbo/cache/filter/CacheFilter.java" timestamp="1497359016196" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/SPI.java" timestamp="1497433267601" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/logback.xml" timestamp="1497430458834" />
@@ -117,7 +120,7 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497431330794">
+      <file name="/Dummy.txt" timestamp="1497435371871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/VoucherChangeAction.java" timestamp="1497422382875" />

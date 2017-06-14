@@ -12,11 +12,11 @@
       <file name="/a.dummy" timestamp="1497342511473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/PerfectPlanConfig.java" timestamp="1497412274418">
-        <mark key="[" line="55" column="26" />
-        <mark key="]" line="55" column="46" />
-        <mark key="." line="55" column="46" />
-        <mark key="^" line="55" column="46" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/PerfectPlanConfig.java" timestamp="1497421411778">
+        <mark key="[" line="28" column="59" />
+        <mark key="]" line="28" column="66" />
+        <mark key="." line="28" column="66" />
+        <mark key="^" line="28" column="66" />
       </file>
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
@@ -178,7 +178,7 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497412590109">
+      <file name="/Dummy.txt" timestamp="1497421413559">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
@@ -320,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>String</text>
       </register>
       <register name="m" type="4">
         <text />

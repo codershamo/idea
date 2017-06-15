@@ -47,7 +47,8 @@
         <mark key="[" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/FlightSellGoldCouponServiceImpl.java" timestamp="1497495217092" />
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1497517134768" />
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1497519965486" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1497519913725" />
       <file name="$USER_HOME$/workplace/hprice-breeze/pom.xml" timestamp="1497518272495">
         <mark key="[" line="29" column="39" />
         <mark key="]" line="29" column="40" />
@@ -61,27 +62,16 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/DistributeCommonBenefitBeforeOrderAction.java" timestamp="1497504888978" />
-      <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/GoldCouponServiceImpl.java" timestamp="1497498444523">
-        <mark key="[" line="104" column="51" />
-        <mark key="]" line="95" column="83" />
-        <mark key="^" line="95" column="83" />
-        <mark key="." line="95" column="83" />
-      </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workplace/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1497499205783" />
+      <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/BizTemplate.java" timestamp="1497520179833" />
+      <file name="$USER_HOME$/workplace/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1497520169569" />
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/ConsumeCommonBenefitAction.java" timestamp="1497505237208" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/userId/UserIdTableTest.java" timestamp="1497498211700">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="12" column="31" />
-      </file>
-      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ApiUserBenefitBiz.java" timestamp="1497501049523" />
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ApiUserBenefitBiz.java" timestamp="1497519971446" />
       <file name="/fragment.java" timestamp="1497343489364">
         <mark key="[" line="0" column="0" />
       </file>

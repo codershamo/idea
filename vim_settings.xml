@@ -22,6 +22,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/1.0.37/coupon-api-1.0.37.jar!/com/qunar/hotel/qta/coupon/api/bean/CouponInfo.class" timestamp="1497500993449" />
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/bean/HotelPriceListProcessor.java" timestamp="1497513508142" />
+      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/ActivityRiskControlConfig.java" timestamp="1497528091529">
+        <mark key="[" line="51" column="22" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="51" column="22" />
+        <mark key="^" line="51" column="22" />
+      </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/coupon/CommonCouponDao.java" timestamp="1497505069201" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />
@@ -73,7 +79,7 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/BizTemplate.java" timestamp="1497520179833" />
+      <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/BizTemplate.java" timestamp="1497528256288" />
       <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/controller/FlightSellGoldCouponController.java" timestamp="1497522539150" />
       <file name="$USER_HOME$/workplace/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1497520169569" />
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/ConsumeCommonBenefitAction.java" timestamp="1497505237208" />

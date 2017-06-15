@@ -38,6 +38,7 @@
       </file>
       <file name="$USER_HOME$/workplace/sprite/src/main/resources/spring/dao.xml" timestamp="1497494948077" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/FriendShipVoucher.java" timestamp="1497513734515" />
+      <file name="$MAVEN_REPOSITORY$/qunar/common/common-rpc/8.2.4/common-rpc-8.2.4.jar!/META-INF/dubbo/internal/com.alibaba.dubbo.rpc.Filter" timestamp="1497529937431" />
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>
@@ -62,11 +63,12 @@
         <mark key="]" line="29" column="40" />
         <mark key="." line="29" column="40" />
       </file>
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources/spring/dubbo/dubbo-pub.xml" timestamp="1497529811074" />
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/mapper/common.xml" timestamp="1497505389505" />
-      <file name="/Dummy.txt" timestamp="1497524445363">
+      <file name="/Dummy.txt" timestamp="1497529862288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/DistributeCommonBenefitBeforeOrderAction.java" timestamp="1497504888978" />

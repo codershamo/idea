@@ -75,6 +75,7 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/workplace/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1497613363965" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/spring-datasource.xml" timestamp="1497600703823" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
@@ -85,6 +86,7 @@
         <mark key="." line="12" column="31" />
         <mark key="^" line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1497612918900" />
       <file name="/fragment.java" timestamp="1497343489364">
         <mark key="[" line="0" column="0" />
       </file>

@@ -3,20 +3,57 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
-        <mark key="[" line="15" column="28" />
-      </file>
       <file name="/a.dummy" timestamp="1497342511473">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
-        <mark key="[" line="7" column="30" />
-      </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-common/src/main/java/com/qunar/hotel/qta/coupon/common/utils/HttpClient.java" timestamp="1497926705056" />
+      <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
+        <mark key="[" line="19" column="58" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/service/impl/OffLineCouponServiceImpl.java" timestamp="1479176137915">
+        <mark key="[" line="10" column="8" />
+      </file>
+      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/ActivityRiskControlConfig.java" timestamp="1497873669339">
+        <mark key="[" line="51" column="22" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="51" column="22" />
+        <mark key="^" line="51" column="22" />
+      </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
+        <mark key="[" line="7" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/1.0.39/coupon-api-1.0.39.jar!/com/qunar/hotel/qta/coupon/api/constants/ActivityIdDefinition.class" timestamp="1497926996013" />
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/adaptor/local/LocalCouponAdaptor.java" timestamp="1497930780755">
+        <mark key="'" line="25" column="39" />
+      </file>
+      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-container/dubbo-container-spring/src/main/java/com/alibaba/dubbo/container/spring/SpringContainer.java" timestamp="1497930480312" />
+      <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/condition/BasicCondition.java" timestamp="1497922019041" />
+      <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
+        <mark key="[" line="36" column="54" />
+      </file>
+      <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/promotion/RuleAdaptor.java" timestamp="1497930845359">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="12" column="52" />
+        <mark key="^" line="12" column="52" />
+        <mark key="." line="12" column="52" />
+      </file>
+      <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
+        <mark key="[" line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
+        <mark key="[" line="254" column="27" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
+        <mark key="[" line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
+        <mark key="[" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1497873577835">
         <mark key="[" line="57" column="24" />
@@ -24,16 +61,18 @@
         <mark key="^" line="61" column="47" />
         <mark key="." line="61" column="47" />
       </file>
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-common/src/main/java/com/qunar/hotel/qta/coupon/common/utils/HttpClient.java" timestamp="1497926705056" />
       <file name="$USER_HOME$/workplace/demo/pom.xml" timestamp="1497929611725">
         <mark key="[" line="38" column="21" />
         <mark key="]" line="58" column="20" />
         <mark key="^" line="58" column="20" />
         <mark key="." line="58" column="20" />
       </file>
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1497928262392" />
-      <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
-        <mark key="[" line="19" column="58" />
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1497930645314" />
+      <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/promotion/DemoRule.java" timestamp="1497930961520">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/CashVoucherFunction.java" timestamp="1497874232552">
         <mark key="[" line="40" column="116" />
@@ -44,18 +83,15 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/service/impl/OffLineCouponServiceImpl.java" timestamp="1479176137915">
-        <mark key="[" line="10" column="8" />
-      </file>
       <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/condition/CompositeCondition.java" timestamp="1497921913162" />
-      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/ActivityRiskControlConfig.java" timestamp="1497873669339">
-        <mark key="[" line="51" column="22" />
-        <mark key="]" line="51" column="22" />
-        <mark key="." line="51" column="22" />
-        <mark key="^" line="51" column="22" />
-      </file>
       <file name="/Dummy.txt" timestamp="1497926996699">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/demo/src/main/resources/ApplicationContext.xml" timestamp="1497930938291">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="50" />
+        <mark key="^" line="11" column="59" />
+        <mark key="." line="11" column="50" />
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/pay/vacation/VacationCouponHttpService.java" timestamp="1497927158044" />
       <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/container/Main.java" timestamp="1497930537945">
@@ -64,22 +100,10 @@
         <mark key="^" line="11" column="106" />
         <mark key="." line="11" column="106" />
       </file>
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
-        <mark key="[" line="7" column="21" />
-      </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/1.0.39/coupon-api-1.0.39.jar!/com/qunar/hotel/qta/coupon/api/constants/ActivityIdDefinition.class" timestamp="1497926996013" />
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/adaptor/local/LocalCouponAdaptor.java" timestamp="1497927503506">
-        <mark key="'" line="25" column="39" />
-      </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-container/dubbo-container-api/src/main/java/com/alibaba/dubbo/container/Main.java" timestamp="1497930470968" />
-      <file name="$USER_HOME$/qunar_component/dubbo/dubbo-container/dubbo-container-spring/src/main/java/com/alibaba/dubbo/container/spring/SpringContainer.java" timestamp="1497930480312" />
-      <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/condition/BasicCondition.java" timestamp="1497922019041" />
-      <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
-        <mark key="[" line="36" column="54" />
-      </file>
       <file name="$USER_HOME$/workplace/springtest/pom.xml" timestamp="1497929620444">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="89" column="21" />
@@ -93,16 +117,11 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
-        <mark key="[" line="10" column="16" />
-      </file>
       <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/condition/model/ConditionsTrigger.java" timestamp="1497923467219" />
-      <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
-        <mark key="[" line="254" column="27" />
-      </file>
       <file name="/fragment.java" timestamp="1497343489364">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring-config.xml" timestamp="1497930612266" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/workplace/hotel_hslist/src/main/webapp/WEB-INF/web.xml" />
@@ -207,11 +226,11 @@
       <jump line="25" column="39" filename="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/adaptor/local/LocalCouponAdaptor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5jb21tb25zL2NvbW1vbnMtbGFuZzMgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY29tbW9uczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1sYW5nMzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbS5nb29nbGUuZ3VhdmEvZ3VhdmEgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3VhdmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmd1YXZhPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yMS4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG91YmxlIA==</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <text />

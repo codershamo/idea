@@ -15,6 +15,7 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/CashVoucherSubractApiService.java" timestamp="1497938684473" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,11 +72,11 @@
         <mark key="]" line="135" column="34" />
         <mark key="." line="135" column="34" />
       </file>
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/CashVoucherApiService.java" timestamp="1497931826146">
-        <mark key="[" line="178" column="5" />
-        <mark key="]" line="178" column="4" />
-        <mark key="^" line="178" column="4" />
-        <mark key="." line="178" column="4" />
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/CashVoucherApiService.java" timestamp="1497939156106">
+        <mark key="[" line="74" column="70" />
+        <mark key="]" line="74" column="92" />
+        <mark key="^" line="74" column="92" />
+        <mark key="." line="74" column="92" />
       </file>
       <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/container/Main.java" timestamp="1497937875212">
         <mark key="[" line="17" column="17" />
@@ -231,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">T2JqZWN0IA==</text>
+        <text>getCashVoucherMerchantcode</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T2JqZWN0IA==</text>
+        <text>getCashVoucherMerchantcode</text>
       </register>
       <register name="m" type="4">
         <text />

@@ -15,6 +15,11 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/pom.xml" timestamp="1497959249860">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+      </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,7 +62,7 @@
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497937138868">
+      <file name="/Dummy.txt" timestamp="1497959450678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/demo/src/main/resources/ApplicationContext.xml" timestamp="1497937287860">
@@ -99,7 +104,7 @@
       <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/promotion/Condition.java" timestamp="1497937465209">
         <mark key="[" line="7" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-14230_20170607_tujia_voucher-SNAPSHOT/h_hprice_common-DZS-14230_20170607_tujia_voucher-20170620.044221-16.jar!/com/qunar/hotel/price/base/commonconf/ActivityRiskControlConfig.class" timestamp="1497957939001" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-14230_20170607_tujia_voucher-SNAPSHOT/h_hprice_common-DZS-14230_20170607_tujia_voucher-20170620.044221-16.jar!/com/qunar/hotel/price/base/commonconf/ActivityRiskControlConfig.class" timestamp="1497959239691" />
       <file name="$USER_HOME$/workplace/springtest/pom.xml" timestamp="1497929620444">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="89" column="21" />
@@ -233,10 +238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getCashVoucherMerchantcode</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>getCashVoucherMerchantcode</text>
+        <text>T</text>
       </register>
       <register name="m" type="4">
         <text />

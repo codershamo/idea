@@ -7,6 +7,7 @@
         <mark key="[" line="15" column="28" />
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/listener/WechatCouponTakenListener.java" timestamp="1498011074566" />
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractActivityProcessor.java" timestamp="1498024484500" />
       <file name="/a.dummy" timestamp="1497342511473">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,7 +27,7 @@
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1497873577835">
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1498024600215">
         <mark key="[" line="57" column="24" />
         <mark key="]" line="61" column="47" />
         <mark key="^" line="61" column="47" />
@@ -111,7 +112,7 @@
         <mark key="^" line="159" column="43" />
         <mark key="." line="159" column="43" />
       </file>
-      <file name="$USER_HOME$/workplace/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1498018510778" />
+      <file name="$USER_HOME$/workplace/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1498024451093" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/storage/CouponStoreServiceImpl.java" timestamp="1498011719677" />
       <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/service/FlightSellGoldCouponService.java" timestamp="1498015960500" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">

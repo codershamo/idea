@@ -12,7 +12,7 @@
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/AirCashVoucherSubtractApiService.java" timestamp="1498010380411" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/PromotionServiceImpl.java" timestamp="1498037015497" />
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/VoucherLowPriceProcessor.java" timestamp="1498037444827" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/VoucherLowPriceProcessor.java" timestamp="1498041367486" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,6 +39,7 @@
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" timestamp="1498036061547" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.184/h_hprice_common-1.2.184-sources.jar!/com/qunar/hotel/price/base/commonconf/VoucherLowPriceConfig.java" timestamp="1498037381501" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.187/h_hprice_common-1.2.187.jar!/com/qunar/hotel/price/base/commonconf/VoucherLowPriceConfig.class" timestamp="1498040687621" />
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>
@@ -72,6 +73,7 @@
       <file name="/Dummy.txt" timestamp="1498033400147">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PromotionAsyncRequest.java" timestamp="1498041464918" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
@@ -94,7 +96,8 @@
         <mark key="^" line="32" column="67" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1497343489364">
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.187/h_hprice_common-1.2.187-sources.jar!/com/qunar/hotel/price/base/commonconf/VoucherLowPriceConfig.java" timestamp="1498040992252" />
+      <file name="/fragment.java" timestamp="1498041481905">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>

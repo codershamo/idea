@@ -11,7 +11,7 @@
         <mark key="[" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/AirCashVoucherSubtractApiService.java" timestamp="1498010380411" />
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/PromotionServiceImpl.java" timestamp="1498033486802" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/PromotionServiceImpl.java" timestamp="1498034494750" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,6 +58,7 @@
         <mark key="." line="212" column="9" />
         <mark key="^" line="212" column="9" />
       </file>
+      <file name="$USER_HOME$/workplace/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/activity/ActivityInstance.java" timestamp="1498034386533" />
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1498031699767">
         <mark key="[" line="87" column="74" />
         <mark key="]" line="87" column="79" />

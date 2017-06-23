@@ -39,12 +39,13 @@
         <mark key="[" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/QtaValidationServiceImpl.java" timestamp="1498202585136" />
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/HotelDetailPriceServiceImpl.java" timestamp="1498202569608" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/HotelDetailPriceServiceImpl.java" timestamp="1498216276582" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.prod/qunar-url.properties" timestamp="1498194348729" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/AbstractAction.java" timestamp="1498211082025" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser.java" timestamp="1498218160105" />
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>
@@ -55,28 +56,31 @@
         <mark key="[" line="15" column="28" />
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.beta/qunar-url.properties" timestamp="1498194341172" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooseFilter.java" timestamp="1498218291564" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/HotelPriceServiceImpl.java" timestamp="1498202610969" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/HotelPriceServiceImpl.java" timestamp="1498216344799" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/web/biz/HotelDetailPriceController.java" timestamp="1498216312422" />
       <file name="/CashVoucherApiService.java" timestamp="1498211301191" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/base/src/main/java/com/qunar/hotel/price/base/bean/price/ActivityCondition.java" timestamp="1498200608415" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1498211149796" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/detail/v3/ActivityLowPriceHandler.java" timestamp="1498202746008" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/qunar-url.properties" timestamp="1498211442077" />
-      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChecker.java" timestamp="1498212590642" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChecker.java" timestamp="1498217005008" />
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.betanoah/qunar-url.properties" timestamp="1498194312482" />
-      <file name="/Dummy.txt" timestamp="1498203876496">
+      <file name="/Dummy.txt" timestamp="1498218002659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.187/h_hprice_common-1.2.187-sources.jar!/com/qunar/hotel/price/base/commonconf/WrapperChannelConfig.java" timestamp="1498202029533" />
-      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1498212482873" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooseData.java" timestamp="1498217292510" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1498218096285" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>
@@ -85,7 +89,7 @@
         <mark key="'" line="12" column="31" />
         <mark key="[" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/config/qconfig/CpnQconfig.java" timestamp="1498213431345" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/config/qconfig/CpnQconfig.java" timestamp="1498218199845" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.devq/qunar-url.properties" timestamp="1498211673526" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1498210999184" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/config/CommonConfigHolder.java" timestamp="1498211419318">
@@ -94,6 +98,7 @@
         <mark key="^" line="32" column="67" />
         <mark key="." line="31" column="30" />
       </file>
+      <file name="$USER_HOME$/workplace/catalysis/src/main/profiles/local/url.properties" timestamp="1498218588387" />
       <file name="/fragment.java" timestamp="1498212557910">
         <mark key="[" line="0" column="0" />
       </file>

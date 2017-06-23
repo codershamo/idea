@@ -8,6 +8,7 @@
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.betamagic/qunar-url.properties" timestamp="1498194322481" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.beta/qunar-url.properties" timestamp="1498194341172" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1498198385609" />
       <file name="/a.dummy" timestamp="1497342511473">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,7 +37,7 @@
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/resources/qunar-url.properties" timestamp="1498194290145" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1498195203740" />
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/qunar-url.properties" timestamp="1498197389595" />
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/qunar-url.properties" timestamp="1498198349500" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
       </file>

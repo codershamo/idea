@@ -45,7 +45,7 @@
         <mark key="[" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/AbstractAction.java" timestamp="1498211082025" />
-      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser.java" timestamp="1498218160105" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser.java" timestamp="1498220597000" />
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>
@@ -80,7 +80,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.187/h_hprice_common-1.2.187-sources.jar!/com/qunar/hotel/price/base/commonconf/WrapperChannelConfig.java" timestamp="1498202029533" />
       <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooseData.java" timestamp="1498217292510" />
-      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1498218096285" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1498220130935" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>
@@ -89,7 +89,7 @@
         <mark key="'" line="12" column="31" />
         <mark key="[" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/config/qconfig/CpnQconfig.java" timestamp="1498218199845" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/config/qconfig/CpnQconfig.java" timestamp="1498220922687" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.devq/qunar-url.properties" timestamp="1498211673526" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1498210999184" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/config/CommonConfigHolder.java" timestamp="1498211419318">
@@ -99,7 +99,7 @@
         <mark key="." line="31" column="30" />
       </file>
       <file name="$USER_HOME$/workplace/catalysis/src/main/profiles/local/url.properties" timestamp="1498218588387" />
-      <file name="/fragment.java" timestamp="1498212557910">
+      <file name="/fragment.java" timestamp="1498220066735">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>

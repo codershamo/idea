@@ -8,7 +8,7 @@
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.betamagic/qunar-url.properties" timestamp="1498194322481" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.beta/qunar-url.properties" timestamp="1498194341172" />
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1498200090986" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1498200828734" />
       <file name="/a.dummy" timestamp="1497342511473">
         <mark key="[" line="0" column="0" />
       </file>
@@ -20,21 +20,10 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/FlightSellGoldCouponServiceImpl.java" timestamp="1498114862466">
-        <mark key="[" line="212" column="4" />
-        <mark key="]" line="212" column="9" />
-        <mark key="." line="212" column="9" />
-        <mark key="^" line="212" column="9" />
-      </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/PromotionActivityCommissionFilterProcessor.java" timestamp="1498031699767">
-        <mark key="[" line="87" column="74" />
-        <mark key="]" line="87" column="79" />
-        <mark key="^" line="87" column="79" />
-        <mark key="." line="87" column="79" />
-      </file>
+      <file name="$USER_HOME$/workplace/hprice-galaxy/base/src/main/java/com/qunar/hotel/price/base/bean/price/ActivityCondition.java" timestamp="1498200608415" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/resources/qunar-url.properties" timestamp="1498194290145" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1498195203740" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/qunar-url.properties" timestamp="1498198349500" />

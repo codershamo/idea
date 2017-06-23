@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.betamagic/qunar-url.properties" timestamp="1498211315589" />
-      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/controller/CpnCtrlr.java" timestamp="1498210257949" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/controller/CpnCtrlr.java" timestamp="1498212115035" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1498203511089" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/1.0.39/coupon-api-1.0.39.jar!/com/qunar/hotel/qta/coupon/api/remote/CouponRemote.class" timestamp="1498211132651" />
       <file name="/a.dummy" timestamp="1497342511473">
@@ -64,6 +64,7 @@
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1498211149796" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/detail/v3/ActivityLowPriceHandler.java" timestamp="1498202746008" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/qunar-url.properties" timestamp="1498211442077" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChecker.java" timestamp="1498212590642" />
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,10 +76,16 @@
         <mark key="[" line="7" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.187/h_hprice_common-1.2.187-sources.jar!/com/qunar/hotel/price/base/commonconf/WrapperChannelConfig.java" timestamp="1498202029533" />
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1498212482873" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/config/qconfig/CpnQconfig.java" timestamp="1498210759482" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.17.RELEASE/spring-aop-3.2.17.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class" timestamp="1498212077933" />
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/userId/UserIdTableTest.java" timestamp="1498213165471">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/config/qconfig/CpnQconfig.java" timestamp="1498213431345" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources.devq/qunar-url.properties" timestamp="1498211673526" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1498210999184" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/config/CommonConfigHolder.java" timestamp="1498211419318">
@@ -87,12 +94,11 @@
         <mark key="^" line="32" column="67" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1498041481905">
+      <file name="/fragment.java" timestamp="1498212557910">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="27" filename="$USER_HOME$/workplace/hotel_hslist/src/main/java/com/qunar/hotel/api/main/DetailV2Servlet.java" />
       <jump line="52" column="14" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/src/main/java/com/qunar/hotelsearch/hprice/ext/controller/test/HotelTreeTest.java" />
       <jump line="39" column="3" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/src/main/java/com/qunar/hotelsearch/hprice/ext/controller/test/HotelTreeTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/src/main/java/com/qunar/hotelsearch/hprice/ext/controller/test/HotelTreeTest.java" />
@@ -192,6 +198,7 @@
       <jump line="24" column="39" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13209-20170512-package-XConfig-SNAPSHOT/h_hprice_common-DZS-13209-20170512-package-XConfig-20170605.033915-34-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageProductInfoConfig.java" />
       <jump line="25" column="39" filename="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/adaptor/local/LocalCouponAdaptor.java" />
       <jump line="64" column="71" filename="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" />
+      <jump line="12" column="31" filename="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/userId/UserIdTableTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

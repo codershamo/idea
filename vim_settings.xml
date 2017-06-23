@@ -36,7 +36,7 @@
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/resources/qunar-url.properties" timestamp="1498194290145" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1498195203740" />
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/qunar-url.properties" timestamp="1498194279593" />
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/qunar-url.properties" timestamp="1498197389595" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
       </file>
@@ -73,7 +73,7 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/config/CommonConfigHolder.java" timestamp="1498010967040">
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/config/CommonConfigHolder.java" timestamp="1498197374444">
         <mark key="[" line="31" column="29" />
         <mark key="]" line="31" column="30" />
         <mark key="^" line="32" column="67" />

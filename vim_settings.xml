@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/FlightSellGoldCouponServiceImpl.java" timestamp="1498378627862">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="169" column="51" />
-        <mark key="^" line="155" column="62" />
-        <mark key="." line="168" column="0" />
+      <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/FlightSellGoldCouponServiceImpl.java" timestamp="1498378995288">
+        <mark key="[" line="156" column="33" />
+        <mark key="]" line="156" column="32" />
+        <mark key="^" line="156" column="32" />
+        <mark key="." line="156" column="32" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
@@ -64,6 +64,12 @@
       <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/GoldCouponServiceImpl.java" timestamp="1498378115977" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/controller/FlightSellGoldCouponController.java" timestamp="1498379245022">
+        <mark key="[" line="160" column="79" />
+        <mark key="]" line="162" column="66" />
+        <mark key="^" line="162" column="66" />
+        <mark key="." line="162" column="66" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
@@ -185,11 +191,11 @@
       <jump line="12" column="31" filename="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/userId/UserIdTableTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHRyYUluZm8ucHV0KCJzZW5kQ291cG9uUGFyYW1zIiwgZ29sZENvdXBvblNlbGxSZXF1ZXN0UGFyYW1zKTsKICAgICAgICAgICAgICAgICAgICBleHRyYUluZm8ucHV0KCJzZW5kQ291cG9uUmVzdWx0cyIsIHJlc3VsdCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -198,7 +204,7 @@
         <text encoding="base64">XDxzZXJ2aWNlTWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHRyYUluZm8ucHV0KCJzZW5kQ291cG9uUGFyYW1zIiwgZ29sZENvdXBvblNlbGxSZXF1ZXN0UGFyYW1zKTsKICAgICAgICAgICAgICAgICAgICBleHRyYUluZm8ucHV0KCJzZW5kQ291cG9uUmVzdWx0cyIsIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogt6K3xbT6vfDIrwogICAgICoKICAgICAqIEBwYXJhbSBpdGVtSWQghLvJzMa3SUQKICAgICAqIEBwYXJhbSBpdGVtU2VsbFByaWNlIMivyczGt8rbwvS827jxCiAgICAgKiBAcGFyYW0gdXNlclBob25lILeit8XK1rv6o6i808PctcSjqQogICAgICogQHBhcmFtIHNyY09yZGVySWQg1LS1pbrFCiAgICAgKiBAcGFyYW0gc3JjVHlwZSCx6sq2x+vH88C01LQsMc6qu/rGsaOsMs6qu/CztcaxCiAgICAgKiBAcGFyYW0gc25hdGNoVGFnIMivwuvKx7fxt7W72LHqyrYgMKOssru3tbvYo6wxzqq3tbvYyK/C6wogICAgICogQHBhcmFtIG51bSC3orfF1cXK/SDErMjPzqoxCiAgICAgKiBAcGFyYW0gbm90aWNlIMrHt/HP+8+izOHKviDErMjPt6LLzaOsMM6qt6LLzaOsMc6qsru3osvNCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvc2VsbCIsIG1ldGhvZCA9IHsgUmVxdWVzdE1ldGhvZC5QT1NULCBSZXF1ZXN0TWV0aG9kLkdFVCB9KQogICAgQFJlc3BvbnNlQm9keQogICAgcHVibGljIEZsaWdodFNlbGxHb2xkQ291cG9uUmVzdWx0PEZsaWdodEdvbGRDb3Vwb25TZWxsUmV0dXJuRGF0YT4gc2VsbChmaW5hbCBTdHJpbmcgdWlkLAogICAgICAgICAgICBmaW5hbCBTdHJpbmcgZ2lkLCBmaW5hbCBTdHJpbmcgcGlkLCBmaW5hbCBTdHJpbmcgdmlkLAogICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gIml0ZW1JZCIsIGRlZmF1bHRWYWx1ZSA9ICIwIikgZmluYWwgaW50IGl0ZW1JZCwKICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJpdGVtU2VsbFByaWNlIiwgZGVmYXVsdFZhbHVlID0gIjAiKSBmaW5hbCBkb3VibGUgaXRlbVNlbGxQcmljZSwKICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ1c2VySWQiLCBkZWZhdWx0VmFsdWUgPSAiMCIpIGZpbmFsIGludCB1c2VySWQsCiAgICAgICAgICAgIGZpbmFsIFN0cmluZyB1c2VyUGhvbmUsIGZpbmFsIFN0cmluZyB1c2VySXAsIGZpbmFsIFN0cmluZyBzcmNPcmRlcklkLAogICAgICAgICAgICBmaW5hbCBTdHJpbmcgc3JjVHlwZSwKICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJzbmF0Y2hUYWciLCBkZWZhdWx0VmFsdWUgPSAiMCIpIGZpbmFsIGludCBzbmF0Y2hUYWcsCiAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAibnVtIiwgZGVmYXVsdFZhbHVlID0gIjEiKSBmaW5hbCBpbnQgbnVtLAogICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gIm5vdGljZSIsIGRlZmF1bHRWYWx1ZSA9ICIwIikgZmluYWwgaW50IG5vdGljZSkgewogICAgICAgIGZpbmFsIGxvbmcgc3RhcnQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBGbGlnaHRTZWxsR29sZENvdXBvblJlc3VsdDxGbGlnaHRHb2xkQ291cG9uU2VsbFJldHVybkRhdGE+IHNlbGxSZXN1bHQgPSBGbGlnaHRTZWxsR29sZENvdXBvblJlc3VsdAogICAgICAgICAgICAgICAgLnJldHVybkZhaWx1cmUoKTsKICAgICAgICBFeGNlcHRpb24gZXJyb3IgPSBudWxsOwogICAgICAgIFNlbGxHb2xkQ291cG9uQ2hhbm5lbEVudW0gc2VsbEdvbGRDb3Vwb25DaGFubmVsRW51bSA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc2VsbEdvbGRDb3Vwb25DaGFubmVsRW51bSA9IFNlbGxHb2xkQ291cG9uQ2hhbm5lbEVudW0KICAgICAgICAgICAgICAgICAgICAuZ2V0U2VsbEdvbGRDb3Vwb25DaGFubmVsRW51bUJ5Qml6VHlwZShWYWx1ZXMub3B0SW50KHNyY1R5cGUpKTsKICAgICAgICAgICAgaWYgKHNlbGxHb2xkQ291cG9uQ2hhbm5lbEVudW0gPT0gbnVsbCkgewogICAgICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKEdvbGRDb3Vwb25RbW9uaXRvckNvbnN0YW50cy5TRUxMX0dPTERfQ09VUE9OX1BBUkFNU19FUlJPUik7CiAgICAgICAgICAgICAgICBzZWxsUmVzdWx0ID0gRmxpZ2h0U2VsbEdvbGRDb3Vwb25SZXN1bHQucmV0dXJuRmFpbHVyZSgtMSwgIrLOyv2yu7rPt6giKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHNlbGxSZXN1bHQgPSB0aGlzLmZsaWdodFNlbGxHb2xkQ291cG9uU2VydmljZS5zZWxsKHVpZCwgZ2lkLCBwaWQsIHZpZCwgaXRlbUlkLAogICAgICAgICAgICAgICAgICAgICAgICBpdGVtU2VsbFByaWNlLCB1c2VySWQsIHVzZXJQaG9uZSwgdXNlcklwLCBzcmNPcmRlcklkLCBzbmF0Y2hUYWcsIG5vdGljZSwKICAgICAgICAgICAgICAgICAgICAgICAgbnVtLCBzZWxsR29sZENvdXBvbkNoYW5uZWxFbnVtLCBuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChmaW5hbCBFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlcnJvciA9IGU7CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgZmluYWwgbG9uZyBjb3N0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydDsKICAgICAgICAgICAgZmluYWwgU3RyaW5nQnVpbGRlciBzdHJpbmdCdWlsZGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoMjU2KTsKICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQoIltjb3N0OiIpLmFwcGVuZChjb3N0KTsKICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQoIm1zXSBQQVJBTVM9KCIpOwogICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCgidWlkPSIpLmFwcGVuZCh1aWQpOwogICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCgiLGdpZD0iKS5hcHBlbmQoZ2lkKTsKICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQoIixwaWQ9IikuYXBwZW5kKHBpZCk7CiAgICAgICAgICAgIHN0cmluZ0J1aWxkZXIuYXBwZW5kKCIsdmlkPSIpLmFwcGVuZCh2aWQpOwogICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCgiLGl0ZW1JZD0iKS5hcHBlbmQoaXRlbUlkKTsKICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQoIixpdGVtU2VsbFByaWNlPSIpLmFwcGVuZChpdGVtU2VsbFByaWNlKTsKICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQoIix1c2VySWQ9IikuYXBwZW5kKHVzZXJJZCk7CiAgICAgICAgICAgIHN0cmluZ0J1aWxkZXIuYXBwZW5kKCIsdXNlclBob25lPSIpLmFwcGVuZCh1c2VyUGhvbmUpOwogICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCgiLHNyY09yZGVySWQ9IikuYXBwZW5kKHNyY09yZGVySWQpOwogICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCgiLHNyY1R5cGU9IikuYXBwZW5kKHNyY1R5cGUpOwogICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCgiLHNuYXRjaFRhZz0iKS5hcHBlbmQoc25hdGNoVGFnKTsKICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQoIixudW09IikuYXBwZW5kKG51bSk7CiAgICAgICAgICAgIHN0cmluZ0J1aWxkZXIuYXBwZW5kKCIsbm90aWNlPSIpLmFwcGVuZChub3RpY2UpOwogICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCgiKSxyZXN1bHQ9IikuYXBwZW5kKHNlbGxSZXN1bHQpOwogICAgICAgICAgICBTdHJpbmcgc291cmNlID0gIiI7CiAgICAgICAgICAgIGlmIChzZWxsR29sZENvdXBvbkNoYW5uZWxFbnVtICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHNvdXJjZSA9IHNlbGxHb2xkQ291cG9uQ2hhbm5lbEVudW0uZ2V0TmFtZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChlcnJvciA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygiU0VMTF9HT0xEX0NPVVBPTjoiICsgc3RyaW5nQnVpbGRlci50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZShzb3VyY2UgKyBHb2xkQ291cG9uUW1vbml0b3JDb25zdGFudHMuU0VMTF9HT0xEX0NPVVBPTiwgY29zdCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBMT0dHRVIuZXJyb3IoIlNFTExfR09MRF9DT1VQT05fRVhDRVBUSU9OOiIgKyBzdHJpbmdCdWlsZGVyLnRvU3RyaW5nKCksIGVycm9yKTsKICAgICAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZShzb3VyY2UgKyBHb2xkQ291cG9uUW1vbml0b3JDb25zdGFudHMuU0VMTF9HT0xEX0NPVVBPTl9FWENFUFRJT04sCiAgICAgICAgICAgICAgICAgICAgICAgIGNvc3QpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gc2VsbFJlc3VsdDsKICAgIH0K</text>
       </register>
       <register name="1" type="4">
         <text>this.makeGoldCouponSellRequestParams(user, cfg, num,

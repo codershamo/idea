@@ -38,6 +38,7 @@
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser.java" timestamp="1498444215420" />
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>
@@ -47,6 +48,7 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooseFilter.java" timestamp="1498443842492" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
@@ -84,6 +86,7 @@
         <mark key="'" line="12" column="31" />
         <mark key="[" line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/config/qconfig/CpnQconfig.java" timestamp="1498444219476" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/config/CommonConfigHolder.java" timestamp="1498211419318">
         <mark key="[" line="31" column="29" />
         <mark key="]" line="31" column="30" />

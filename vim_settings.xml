@@ -14,6 +14,9 @@
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1498633371629">
+        <mark key="'" line="310" column="77" />
+      </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
@@ -75,7 +78,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="14" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/src/main/java/com/qunar/hotelsearch/hprice/ext/controller/test/HotelTreeTest.java" />
       <jump line="39" column="3" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/src/main/java/com/qunar/hotelsearch/hprice/ext/controller/test/HotelTreeTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workplace/hprice-ext/hprice-ext-main/src/main/java/com/qunar/hotelsearch/hprice/ext/controller/test/HotelTreeTest.java" />
       <jump line="384" column="27" filename="$USER_HOME$/workplace/open-api/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/opromotion/cache/PromotionDataLocalCache.java" />
@@ -175,6 +177,7 @@
       <jump line="25" column="39" filename="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/adaptor/local/LocalCouponAdaptor.java" />
       <jump line="64" column="71" filename="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" />
       <jump line="12" column="31" filename="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/userId/UserIdTableTest.java" />
+      <jump line="310" column="77" filename="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

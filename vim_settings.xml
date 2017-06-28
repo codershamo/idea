@@ -9,6 +9,7 @@
       <file name="/a.dummy" timestamp="1497342511473">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1498614826154" />
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
@@ -18,6 +19,8 @@
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/13958_1.1.153-SNAPSHOT/qta-open-product-api-13958_1.1.153-20170623.090737-31.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProduct.class" timestamp="1498614943423" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1498614939734" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
       </file>

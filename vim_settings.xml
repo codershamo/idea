@@ -58,7 +58,7 @@
         <mark key="^" line="36" column="30" />
         <mark key="." line="36" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498701319509">
+      <file name="/Dummy.txt" timestamp="1498706146486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ComposeAdditionalConfig.java" timestamp="1498705024300" />
@@ -68,11 +68,11 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1498705544586">
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1498706411343">
         <mark key="[" line="57" column="4" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="87" column="82" />
-        <mark key="." line="58" column="0" />
+        <mark key="]" line="120" column="76" />
+        <mark key="^" line="120" column="76" />
+        <mark key="." line="120" column="76" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/pom.xml" timestamp="1498632195855">
         <mark key="[" line="30" column="30" />

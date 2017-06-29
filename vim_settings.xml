@@ -69,11 +69,11 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1498716655817">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="58" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1498726664775">
+        <mark key="[" line="81" column="115" />
+        <mark key="]" line="81" column="8" />
         <mark key="^" line="68" column="4" />
-        <mark key="." line="65" column="0" />
+        <mark key="." line="81" column="8" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/pom.xml" timestamp="1498632195855">
         <mark key="[" line="30" column="30" />
@@ -211,8 +211,8 @@
       <jump line="310" column="77" filename="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzQ291cG9uc0NvbXBvc2VkKHFBZGRpdGlvbmFsUHJvZHVjdCwgcXVlcnkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
         <text>e</text>

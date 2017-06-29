@@ -97,8 +97,11 @@
         <mark key="[" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/bean/CouponInfo.java" timestamp="1498699628009" />
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/lamba/CollectionTest.java" timestamp="1498731830317">
-        <mark key="[" line="7" column="29" />
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/lamba/CollectionTest.java" timestamp="1498735533028">
+        <mark key="[" line="16" column="83" />
+        <mark key="]" line="16" column="79" />
+        <mark key="^" line="16" column="79" />
+        <mark key="." line="16" column="79" />
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
@@ -211,10 +214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <text />

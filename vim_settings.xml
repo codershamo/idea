@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1498700590948">
+      <file name="/a.dummy" timestamp="1498708643391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/AdditionalConfig.java" timestamp="1498698305499">
@@ -36,6 +36,7 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProduct.java" timestamp="1498707760605" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -68,11 +69,11 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1498706411343">
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="120" column="76" />
-        <mark key="^" line="120" column="76" />
-        <mark key="." line="120" column="76" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1498709188668">
+        <mark key="[" line="85" column="61" />
+        <mark key="]" line="110" column="0" />
+        <mark key="^" line="80" column="7" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/pom.xml" timestamp="1498632195855">
         <mark key="[" line="30" column="30" />
@@ -211,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxUaWNrZXRUeXBlQ29uZmlnPiBzaG91bGRDb21wb3NlZFRpY2tldFR5cGVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>TicketTypeConfig</text>
+        <text>e</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -223,34 +224,34 @@
         <text encoding="base64">XDxzZXJ2aWNlTWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHRyYUluZm8uZ2V0KEZsaWdodFNlbGxHb2xkQ291cG9uU2VydmljZUltcGwuRVhUUkFJTkZPX1NFTkRfQ09VUE9OX1BBUkFNU19LRVkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/JvrP90tG+rcztvNO1vdfpus+y+sa31tC1xLTuytuy+sa3CiAgICAgICAgICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgUUFkZGl0aW9uYWxQcm9kdWN0SW5mbz4gZW50cnkgOiBwcm9kdWN0SWQyUHJvZHVjdE1hcC5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgICAgICBpZiAodG9SZW1vdmVQcm9kdWN0SWRzLmNvbnRhaW5zKGVudHJ5LmdldEtleSgpKSkgewogICAgICAgICAgICAgICAgICAgIHFBZGRpdGlvbmFsUHJvZHVjdC5nZXRBZGRpdGlvbmFsUHJvZHVjdExpc3QoKS5yZW1vdmUoZW50cnkuZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxUaWNrZXRUeXBlQ29uZmlnPiBzaG91bGRDb21wb3NlZFRpY2tldFR5cGVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9SZW1vdmVQcm9kdWN0SWRzLmFkZEFsbChzbGF2ZVByb2R1Y3RJZHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFRpY2tldFR5cGVDb25maWc+IGdldFNob3VsZENvbXBvc2VkVGlja2V0VHlwZXMoKSB7CiAgICAgICAgcmV0dXJuIHNob3VsZENvbXBvc2VkVGlja2V0VHlwZXM7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9SZW1vdmVQcm9kdWN0SWRzLmFkZChtYWluUHJvZHVjdEtleSk7CiAgICAgICAgICAgIHRvUmVtb3ZlUHJvZHVjdElkcy5hZGRBbGwoc2xhdmVQcm9kdWN0SWRzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjb25maWdDb3Vwb25DYXJkU2hvdyhMaXN0PFFBZGRpdGlvbmFsUHJvZHVjdEluZm8+IGFkZGl0aW9uYWxQcm9kdWN0TGlzdCkgewogICAgICAgIGZvciAoUUFkZGl0aW9uYWxQcm9kdWN0SW5mbyBhZGRpdGlvbmFsUHJvZHVjdEluZm8gOiBhZGRpdGlvbmFsUHJvZHVjdExpc3QpIHsKICAgICAgICAgICAgYWRkaXRpb25hbFByb2R1Y3RJbmZvLmdldFQKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiB0b1JlbW92ZVByb2R1Y3RJZHMgPSBTZXRzLm5ld0hhc2hTZXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxUaWNrZXRUeXBlQ29uZmlnPiBzaG91bGRDb21wb3NlZFRpY2tldFR5cGVzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdDb3Vwb25DYXJkU2hvdyhxQWRkaXRpb25hbFByb2R1Y3QuZ2V0QWRkaXRpb25hbFByb2R1Y3RMaXN0KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aWNrZXRUeXBlQ29uZmlnLmdldCgpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFRpY2tldFR5cGVDb25maWc+IGdldFNob3VsZENvbXBvc2VkVGlja2V0VHlwZXMoKSB7CiAgICAgICAgcmV0dXJuIHNob3VsZENvbXBvc2VkVGlja2V0VHlwZXM7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vwb25JbmZvLmdldFRpY2tldFR5cGUoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjb25maWdDb3Vwb25DYXJkU2hvdyhMaXN0PFFBZGRpdGlvbmFsUHJvZHVjdEluZm8+IGFkZGl0aW9uYWxQcm9kdWN0TGlzdCkgewogICAgICAgIGZvciAoUUFkZGl0aW9uYWxQcm9kdWN0SW5mbyBhZGRpdGlvbmFsUHJvZHVjdEluZm8gOiBhZGRpdGlvbmFsUHJvZHVjdExpc3QpIHsKICAgICAgICAgICAgYWRkaXRpb25hbFByb2R1Y3RJbmZvLmdldFQKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

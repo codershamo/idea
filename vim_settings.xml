@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workplace/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/base/util/ABTestUtil.java" timestamp="1498792470344" />
-      <file name="/a.dummy" timestamp="1498792254540">
+      <file name="/a.dummy" timestamp="1498794383833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/AdditionalConfig.java" timestamp="1498698305499">
@@ -53,6 +53,7 @@
         <mark key="]" line="30" column="30" />
         <mark key="." line="30" column="30" />
       </file>
+      <file name="$USER_HOME$/workplace/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/UserFunctions.java" timestamp="1498794505315" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
@@ -65,11 +66,11 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/util/ABTestClient.java" timestamp="1498793167374">
-        <mark key="[" line="88" column="5" />
-        <mark key="]" line="87" column="44" />
-        <mark key="^" line="87" column="44" />
-        <mark key="." line="87" column="44" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/util/ABTestClient.java" timestamp="1498794734478">
+        <mark key="[" line="100" column="31" />
+        <mark key="]" line="100" column="31" />
+        <mark key="^" line="100" column="44" />
+        <mark key="." line="100" column="31" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
         <mark key="[" line="254" column="27" />
@@ -101,7 +102,7 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498792296551">
+      <file name="/Dummy.txt" timestamp="1498793965139">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
@@ -230,11 +231,11 @@
       <jump line="112" column="19" filename="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ComposeAdditionalConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBFWFAudmFsdWVzKCkuCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <text />

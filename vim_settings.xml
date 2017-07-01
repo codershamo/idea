@@ -45,11 +45,11 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1498914096865">
-        <mark key="[" line="220" column="113" />
-        <mark key="]" line="220" column="118" />
-        <mark key="." line="220" column="118" />
-        <mark key="^" line="220" column="118" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1498914797088">
+        <mark key="[" line="95" column="13" />
+        <mark key="]" line="96" column="11" />
+        <mark key="." line="96" column="11" />
+        <mark key="^" line="96" column="11" />
       </file>
       <file name="/ComposedAdditionalService.java" timestamp="1498808489781" />
       <file name="$USER_HOME$/workplace/open-price/pom.xml" timestamp="1498808278617">
@@ -75,6 +75,12 @@
         <mark key="]" line="80" column="39" />
         <mark key="^" line="80" column="39" />
         <mark key="." line="80" column="39" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" timestamp="1498914650663">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+        <mark key="." line="31" column="14" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
         <mark key="[" line="254" column="27" />
@@ -228,11 +234,11 @@
       <jump line="112" column="19" filename="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ComposeAdditionalConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhYlRlc3RFeHBlcmltZW50LmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -241,37 +247,37 @@
         <text encoding="base64">XDxzbGF2ZVByb2R1Y3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIE1hcDxTdHJpbmcsIENvbXBvc2VBZGRpdGlvbmFsQ29uZmlnLldyYXBwZXJJbmZvPiBzbGF2ZVByb2R1Y3RzID0gY29uZmlnLmdldFNsYXZlUHJvZHVjdCgpOwogICAgICAgICAgICAgICAgZmluYWwgU2V0PFN0cmluZz4gc2xhdmVQcm9kdWN0SWRzID0gc2xhdmVQcm9kdWN0cy5rZXlTZXQoKTsKICAgICAgICAgICAgICAgIGZpbmFsIEltbXV0YWJsZVNldDxTdHJpbmc+IGFkZGl0aW9uYWxQcm9kdWN0SWRzID0gcHJvZHVjdElkMlByb2R1Y3RNYXAua2V5U2V0KCk7CiAgICAgICAgICAgICAgICBpZiAoIWFkZGl0aW9uYWxQcm9kdWN0SWRzLmNvbnRhaW5zQWxsKHNsYXZlUHJvZHVjdElkcykpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogYnVja2V0IEEKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQlVDS0VUX0EgPSAiQSI7CiAgICAvKioKICAgICAqIGJ1Y2tldAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBCVUNLRVRfQiA9ICJCIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFFBZGRpdGlvbmFsUHJvZHVjdEluZm8+IGFkZGl0aW9uYWxQcm9kdWN0TGlzdCA9IHFBZGRpdGlvbmFsUHJvZHVjdC5nZXRBZGRpdGlvbmFsUHJvZHVjdExpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhYlRlc3RFeHBlcmltZW50LmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb2xsZWN0aW9uPFFBZGRpdGlvbmFsUHJvZHVjdEluZm8+IHFBZGRpdGlvbmFsUHJvZHVjdEluZm9zID0gdHlwZTJQcm9kdWN0TWFwLnZhbHVlcygpOwogICAgICAgICAgICAgICAgICAgIGZvciAoUUFkZGl0aW9uYWxQcm9kdWN0SW5mbyBhZGRQcm9kdWN0IDogcUFkZGl0aW9uYWxQcm9kdWN0SW5mb3MpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG1hc3RlclByb2R1Y3RJZCA9IGFkZFByb2R1Y3QuZ2V0SWQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkQ29tcG9zZUFkZGl0aW9uYWwoY29uZmlnLCBxQWRkaXRpb25hbFByb2R1Y3QsIHByb2R1Y3RJZDJQcm9kdWN0TWFwLCBtYXN0ZXJQcm9kdWN0SWQpOwogICAgICAgICAgICAgICAgICAgICAgICB0b1JlbW92ZVByb2R1Y3RJZHMuYWRkKG1hc3RlclByb2R1Y3RJZCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhYnRlc3RRdWVyeS5pc1ByZXNlbnQoKSkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgYWJ0ZXN0UXVlcnkgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG1hc3RlclByb2R1Y3RJZCA9IGFkZFByb2R1Y3QuZ2V0SWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxBYnRlc3RRdWVyeT4gYWJ0ZXN0UXVlcnkgPSBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIEFwcENvbmZpZy5nZXRCb29sZWFuKENvbmZpZ0tleS5DT01QT1NFX0FERElUSU9OQUxfQUJfRk9SX0FORFJPSUQsIHRydWUpCiAgICAgICAgICAgICAgICAmJiFhYnRlc3RRdWVyeS5nZXQoKS5nZXRQbGF0Zm9ybSgpLmVxdWFscyhBQlRlc3RDb25zdHMuQU5EUk9JRCkpIHsKICAgICAgICAgICAgLy/Ev8ew1rvU2mFuZHJvaWS/qrnYudix1df2yKvBv7XEYWIKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRDb21wb3NlQWRkaXRpb25hbChjb25maWcsIHFBZGRpdGlvbmFsUHJvZHVjdCwgcHJvZHVjdElkMlByb2R1Y3RNYXApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWV4cGVyaW1lbnQuZ2V0QnVja2V0KCkuZXF1YWxzKEFCVGVzdENvbnN0cy5CVUNLRVRfQikpIHsKICAgICAgICAgICAgLy/KtdHp1+myxbvh09DA8bD8CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBBYnRlc3RRdWVyeS5FeHBlcmltZW50IGV4cGVyaW1lbnQgPSBhYlRlc3RFeHBlcmltZW50LmdldCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIE1hcDxTdHJpbmcsIENvbXBvc2VBZGRpdGlvbmFsQ29uZmlnLldyYXBwZXJJbmZvPiBzbGF2ZVByb2R1Y3RzID0gY29uZmlnLmdldFNsYXZlUHJvZHVjdCgpOwogICAgICAgICAgICAgICAgZmluYWwgU2V0PFN0cmluZz4gc2xhdmVQcm9kdWN0SWRzID0gc2xhdmVQcm9kdWN0cy5rZXlTZXQoKTsKICAgICAgICAgICAgICAgIGZpbmFsIEltbXV0YWJsZVNldDxTdHJpbmc+IGFkZGl0aW9uYWxQcm9kdWN0SWRzID0gcHJvZHVjdElkMlByb2R1Y3RNYXAua2V5U2V0KCk7CiAgICAgICAgICAgICAgICBpZiAoIWFkZGl0aW9uYWxQcm9kdWN0SWRzLmNvbnRhaW5zQWxsKHNsYXZlUHJvZHVjdElkcykpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGFkZENvbXBvc2VBZGRpdGlvbmFsKGNvbmZpZywgcUFkZGl0aW9uYWxQcm9kdWN0LCBwcm9kdWN0SWQyUHJvZHVjdE1hcCk7CiAgICAgICAgICAgICAgICB0b1JlbW92ZVByb2R1Y3RJZHMuYWRkKG1haW5Qcm9kdWN0S2V5KTsKICAgICAgICAgICAgICAgIHRvUmVtb3ZlUHJvZHVjdElkcy5hZGRBbGwoc2xhdmVQcm9kdWN0SWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWJ0ZXN0UXVlcnkgPT0gbnVsbCB8fCAhYWJ0ZXN0UXVlcnkuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgaWYgKCFhYlRlc3RFeHBlcmltZW50LmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghcHJvZHVjdElkMlByb2R1Y3RNYXAuY29udGFpbnNLZXkobWFpblByb2R1Y3RLZXkpKSB7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBPcHRpb25hbDxBYnRlc3RRdWVyeS5FeHBlcmltZW50PiBhYlRlc3RFeHBlcmltZW50ID0gQUJUZXN0VXRpbC5maW5kQUJUZXN0RXhwZXJpbWVudChhYnRlc3RRdWVyeS5nZXQoKSwgQUJUZXN0Q29uc3RzLkNBTkNFTF9JTlNVUkFOQ0VfR0lGVCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

@@ -63,12 +63,12 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1499075850829">
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1499077084114">
         <mark key="'" line="282" column="8" />
-        <mark key="[" line="169" column="100" />
-        <mark key="]" line="171" column="18" />
-        <mark key="." line="171" column="18" />
-        <mark key="^" line="171" column="18" />
+        <mark key="[" line="300" column="15" />
+        <mark key="]" line="300" column="18" />
+        <mark key="." line="300" column="18" />
+        <mark key="^" line="300" column="18" />
       </file>
       <file name="/ComposedAdditionalService.java" timestamp="1498808489781" />
       <file name="$USER_HOME$/workplace/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/UserFunctions.java" timestamp="1498794505315" />
@@ -156,7 +156,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/HotelPriceServiceImpl.java" timestamp="1499063932529" />
-      <file name="/Dummy.txt" timestamp="1499075941514">
+      <file name="/Dummy.txt" timestamp="1499077087227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
@@ -297,11 +297,11 @@
       <jump line="165" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/ABRouter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoY29tcG9zZWRBZGRpdGlvbmFsUHJvZHVjdEluZm9zKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>false</text>
       </register>
       <register name="m" type="4">
         <text />

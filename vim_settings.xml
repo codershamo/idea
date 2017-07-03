@@ -23,6 +23,13 @@
         <mark key="." line="306" column="60" />
         <mark key="^" line="306" column="60" />
       </file>
+      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/ABRouter.java" timestamp="1499045875275">
+        <mark key="'" line="165" column="24" />
+        <mark key="[" line="239" column="29" />
+        <mark key="]" line="239" column="42" />
+        <mark key="." line="239" column="42" />
+        <mark key="^" line="239" column="42" />
+      </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,7 +41,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/13958_1.1.153-SNAPSHOT/qta-open-product-api-13958_1.1.153-20170623.090737-31.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProduct.class" timestamp="1498614943423" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QComposedAdditionalProductInfo.java" timestamp="1498729256575" />
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-20170629.021517-2.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.class" timestamp="1499006212903">
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-20170629.021517-2.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.class" timestamp="1499046027858">
         <mark key="'" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/enums/CouponInfoEnum.java" timestamp="1498646127311" />
@@ -57,12 +64,12 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1499006015623">
-        <mark key="'" line="281" column="8" />
-        <mark key="[" line="250" column="12" />
-        <mark key="]" line="251" column="44" />
-        <mark key="." line="251" column="44" />
-        <mark key="^" line="251" column="44" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1499046262720">
+        <mark key="'" line="282" column="8" />
+        <mark key="[" line="148" column="161" />
+        <mark key="]" line="148" column="190" />
+        <mark key="." line="148" column="190" />
+        <mark key="^" line="148" column="190" />
       </file>
       <file name="/ComposedAdditionalService.java" timestamp="1498808489781" />
       <file name="$USER_HOME$/workplace/open-price/pom.xml" timestamp="1498808278617">
@@ -117,6 +124,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProduct.java" timestamp="1498707760605" />
       <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/filter/LoginFilter.java" timestamp="1498623152590" />
+      <file name="$USER_HOME$/workplace/h_hprice_common/pom.xml" timestamp="1499045671751">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/util/ABTestUtil.java" timestamp="1499004900096">
         <mark key="[" line="65" column="33" />
         <mark key="]" line="66" column="77" />
@@ -126,13 +138,13 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499006249015">
+      <file name="/Dummy.txt" timestamp="1499046396606">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workplace/open-product-api/pom.xml" timestamp="1498629967863">
+      <file name="$USER_HOME$/workplace/open-product-api/pom.xml" timestamp="1499045663834">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
@@ -160,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="27" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
       <jump line="142" column="327" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
       <jump line="164" column="13" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
       <jump line="177" column="36" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
@@ -260,22 +271,23 @@
       <jump line="281" column="8" filename="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" />
       <jump line="239" column="19" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-20170629.021517-2.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.class" />
       <jump line="20" column="16" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-20170629.021517-2.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.class" />
+      <jump line="165" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/ABRouter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VDYXJkU2hvdyhxQWRkaXRpb25hbFByb2R1Y3QpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>finalOneYuanActivityComposed</text>
+        <text>l</text>
       </register>
       <register name="m" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>setTicketType</text>
+        <text encoding="base64">XDxjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VDYXJkU2hvdyhxQWRkaXRpb25hbFByb2R1Y3QpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNDb21wb3NlQWRkaXRpb25hbFZlcnNpb25NYXRjaChmaW5hbCBTdHJpbmcgZXhwSWQsIFN0cmluZyBwbGF0Zm9ybSwgaW50IGlvc1ZlcnNpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGFuZHJvaWRWZXJzaW9uLCBDb21tb25CaXpDb25maWcgY29tbW9uQml6Q29uZmlnKSB7CgogICAgICAgIEludGVnZXIgaW9zQmFzZVZlcnNpb24gPSBJbnRlZ2VyLnZhbHVlT2YoY29tbW9uQml6Q29uZmlnLmdldENvbmZpZ1ZhbHVlQnlLZXkoQ29tbW9uQml6Q29uZmlnLkNBTkNFTF9DT01QT1NFX0lPU19CQVNFX1ZFUlNJT04sICIwIikpOwogICAgICAgIEludGVnZXIgYW5kcm9pZEJhc2VWZXJzaW9uID0gSW50ZWdlci52YWx1ZU9mKGNvbW1vbkJpekNvbmZpZy5nZXRDb25maWdWYWx1ZUJ5S2V5KENvbW1vbkJpekNvbmZpZy5DQU5DRUxfQ09NUE9TRV9BTkRST0lEX0JBU0VfVkVSU0lPTiwgIjAiKSk7CiAgICAgICAgcmV0dXJuIChJT1MuZXF1YWxzKHBsYXRmb3JtKSAmJiAoaW9zVmVyc2lvbiA+PSBpb3NCYXNlVmVyc2lvbikpCiAgICAgICAgICAgICAgICB8fCAoQU5EUk9JRC5lcXVhbHMocGxhdGZvcm0pICYmIChhbmRyb2lkVmVyc2lvbiA+PSBhbmRyb2lkQmFzZVZlcnNpb24pKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdG9SZW1vdmVQcm9kdWN0SWRzLnJlbW92ZUlmKE9ORV9ZVUFOX0FDVElWSVRZX1BST0RVQ1RfSUQ6OmVxdWFscyk7Cg==</text>
@@ -312,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setTicketType</last-search>
+      <last-search encoding="base64">XDxjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern>setTicketType</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzXD4=</last-pattern>
       <last-replace>Money.dollar</last-replace>
       <last-substitute>new Dollar</last-substitute>
       <last-dir>1</last-dir>
@@ -322,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com.qunar.hotel.price</entry>
         <entry>send</entry>
         <entry>set</entry>
         <entry>todo</entry>
@@ -342,6 +353,7 @@
         <entry encoding="base64">XDxxQWRkaXRpb25hbFByb2R1Y3RcPg==</entry>
         <entry>setTicket</entry>
         <entry>setTicketType</entry>
+        <entry encoding="base64">XDxjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/User/user/g</entry>

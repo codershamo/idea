@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1499073994668">
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1499088289545">
         <mark key="'" line="336" column="77" />
         <mark key="[" line="305" column="52" />
         <mark key="]" line="306" column="60" />
@@ -172,15 +172,16 @@
       <file name="$USER_HOME$/workplace/open-product-api/pom.xml" timestamp="1499050626809" />
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/bean/CouponInfo.java" timestamp="1498699628009" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-20170629.021517-2.jar!/com/qunar/hotel/qta/open/bean/user/QUserInfo.class" timestamp="1498796816747" />
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/lamba/CollectionTest.java" timestamp="1498973089262">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="21" column="23" />
-        <mark key="^" line="21" column="23" />
-        <mark key="." line="21" column="23" />
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/lamba/CollectionTest.java" timestamp="1499087993301">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+        <mark key="." line="30" column="26" />
       </file>
       <file name="$USER_HOME$/workplace/order-booking/pom.xml" timestamp="1498792881528" />
       <file name="$USER_HOME$/workplace/order-booking/service/pom.xml" timestamp="1498793173148" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/adapters/DetailCouponViewAdapter.java" timestamp="1499046903194" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/HotelCouponConfig.java" timestamp="1499088097096" />
       <file name="$USER_HOME$/workplace/open-price/provider/pom.xml" timestamp="1498793118472">
         <mark key="[" line="108" column="21" />
       </file>
@@ -305,11 +306,11 @@
       <jump line="401" column="0" filename="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>false</text>
       </register>
       <register name="m" type="4">
         <text />

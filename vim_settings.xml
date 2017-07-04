@@ -33,6 +33,9 @@
         <mark key="." line="58" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QComposedAdditionalProductInfo.java" timestamp="1498729256575" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-20170629.021517-2.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.class" timestamp="1499046027858">
+        <mark key="'" line="20" column="16" />
+      </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" timestamp="1499136739719" />
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/enums/CouponInfoEnum.java" timestamp="1498646127311" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/config/MobileWhiteIpConfig.java" timestamp="1499140790238" />
@@ -41,6 +44,9 @@
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/service/impl/OffLineCouponServiceImpl.java" timestamp="1479176137915">
         <mark key="[" line="10" column="8" />
+      </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ComposeAdditionalConfig.java" timestamp="1499077488185">
+        <mark key="'" line="112" column="19" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/CommonBizConfig.java" timestamp="1499147519636">
         <mark key="[" line="45" column="65" />
@@ -53,6 +59,9 @@
         <mark key="]" line="14" column="67" />
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="67" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.190/h_hprice_common-1.2.190-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageProductInfoConfig.java" timestamp="1499136281755">
+        <mark key="'" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/util/ABTestClient.java" timestamp="1498807787310">
         <mark key="[" line="32" column="22" />
@@ -130,7 +139,7 @@
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1499157143498">
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1499170161647">
         <mark key="'" line="310" column="77" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" timestamp="1499149152144">

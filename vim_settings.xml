@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/adapters/UserBenefitViewAdapter.java" timestamp="1499046865685" />
-      <file name="/a.dummy" timestamp="1499155659051">
+      <file name="/a.dummy" timestamp="1499157618615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/AdditionalConfig.java" timestamp="1499054082721">
@@ -131,11 +131,7 @@
         <mark key="[" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1499157143498">
-        <mark key="'" line="336" column="77" />
-        <mark key="[" line="305" column="52" />
-        <mark key="]" line="306" column="60" />
-        <mark key="." line="306" column="60" />
-        <mark key="^" line="306" column="60" />
+        <mark key="'" line="310" column="77" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" timestamp="1499149152144">
         <mark key="'" line="90" column="24" />
@@ -197,14 +193,14 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499153452977">
-        <mark key="[" line="322" column="107" />
-        <mark key="]" line="322" column="135" />
-        <mark key="." line="322" column="135" />
-        <mark key="^" line="322" column="135" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499157617020">
+        <mark key="[" line="318" column="24" />
+        <mark key="]" line="322" column="86" />
+        <mark key="^" line="322" column="86" />
+        <mark key="." line="322" column="86" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/additional/PackageProduct2QAdditionalProductInfo.java" timestamp="1499047111596" />
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499157057088">
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499157343267">
         <mark key="[" line="772" column="57" />
         <mark key="]" line="773" column="67" />
         <mark key="^" line="773" column="67" />
@@ -222,7 +218,7 @@
       <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/filter/LoginFilter.java" timestamp="1498623152590" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/config/HotelVipConfig.java" timestamp="1499140907625" />
       <file name="/HotelPriceServiceImpl.java" timestamp="1499063932529" />
-      <file name="/Dummy.txt" timestamp="1499156785425">
+      <file name="/Dummy.txt" timestamp="1499157428320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-product-api/pom.xml" timestamp="1499155507588">
@@ -359,11 +355,11 @@
       <jump line="90" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="m" type="4">
         <text />

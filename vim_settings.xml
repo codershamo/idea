@@ -105,11 +105,11 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499137118852" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499139100662" />
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/additional/PackageProduct2QAdditionalProductInfo.java" timestamp="1499047111596" />
       <file name="$USER_HOME$/workplace/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/util/ABTestUtilTest.java" timestamp="1498807835887" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/listener/ABCacheInitListener.java" timestamp="1498791650736" />
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499137742489" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499138595505" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitVoucherSegmentCalcPostProcessor.java" timestamp="1498729000832" />
       <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser4Ordinary.java" timestamp="1498791436438" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/FriendShipVoucherServiceImpl.java" timestamp="1499065410492">

@@ -124,6 +124,12 @@
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1499075445063" />
       <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/utils/ABTestUtil.java" timestamp="1498789437722" />
       <file name="/ComposedAdditionalService.java" timestamp="1498808489781" />
+      <file name="$USER_HOME$/workplace/open-price/pom.xml" timestamp="1499155514572">
+        <mark key="[" line="30" column="79" />
+        <mark key="]" line="30" column="79" />
+        <mark key="^" line="30" column="78" />
+        <mark key="." line="30" column="79" />
+      </file>
       <file name="$USER_HOME$/workplace/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/UserFunctions.java" timestamp="1498794505315" />
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/enums/TicketTypeConfigEnum.java" timestamp="1499073573273">
         <mark key="[" line="35" column="41" />
@@ -131,11 +137,11 @@
         <mark key="." line="35" column="56" />
         <mark key="^" line="35" column="56" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/util/CouponUtil.java" timestamp="1499154665086">
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="23" column="38" />
-        <mark key="^" line="23" column="38" />
-        <mark key="." line="23" column="38" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/util/CouponUtil.java" timestamp="1499155528114">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="66" />
+        <mark key="^" line="22" column="66" />
+        <mark key="." line="22" column="66" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" timestamp="1499054043516">
         <mark key="[" line="22" column="53" />
@@ -163,10 +169,10 @@
       <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/filter/LoginFilter.java" timestamp="1498623152590" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/config/HotelVipConfig.java" timestamp="1499140907625" />
       <file name="/HotelPriceServiceImpl.java" timestamp="1499063932529" />
-      <file name="/Dummy.txt" timestamp="1499155286297">
+      <file name="/Dummy.txt" timestamp="1499155300314">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/open-product-api/pom.xml" timestamp="1499155158547">
+      <file name="$USER_HOME$/workplace/open-product-api/pom.xml" timestamp="1499155507588">
         <mark key="]" line="13" column="61" />
         <mark key="^" line="13" column="61" />
         <mark key="." line="13" column="61" />
@@ -294,11 +300,11 @@
       <jump line="90" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIL7Gteq07srbyK8KICAgIFN0cmluZyBDT1VQT05fSE9URUwgPSAiQ09VUE9OX0hPVEVMIjsK</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>7</text>
       </register>
       <register name="m" type="4">
         <text />

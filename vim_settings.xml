@@ -19,7 +19,7 @@
         <mark key="^" line="84" column="63" />
         <mark key="." line="85" column="4" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/ABRouter.java" timestamp="1499148079435">
+      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/ABRouter.java" timestamp="1499149106910">
         <mark key="'" line="165" column="24" />
         <mark key="[" line="165" column="105" />
         <mark key="]" line="166" column="102" />
@@ -100,12 +100,12 @@
         <mark key="." line="306" column="60" />
         <mark key="^" line="306" column="60" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" timestamp="1499148065482">
-        <mark key="'" line="332" column="15" />
-        <mark key="[" line="336" column="5" />
-        <mark key="]" line="338" column="56" />
-        <mark key="^" line="338" column="56" />
-        <mark key="." line="338" column="56" />
+      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" timestamp="1499149152144">
+        <mark key="'" line="90" column="24" />
+        <mark key="[" line="146" column="71" />
+        <mark key="]" line="147" column="104" />
+        <mark key="^" line="147" column="104" />
+        <mark key="." line="147" column="104" />
       </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
@@ -205,7 +205,6 @@
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/HourlyPriceMaker.java" timestamp="1499086356907" />
     </filemarks>
     <jumps>
-      <jump line="321" column="148" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
       <jump line="341" column="165" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
       <jump line="723" column="16" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
       <jump line="645" column="16" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
@@ -305,19 +304,20 @@
       <jump line="88" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
       <jump line="143" column="8" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
       <jump line="332" column="15" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
+      <jump line="90" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isComposeAdditionalVersionMatch</text>
+        <text>FIVE_DISCOUNT_EXPERIMENT_KEY</text>
       </register>
       <register name="-" type="4">
-        <text>isComposeAdditionalVersionMatch</text>
+        <text>FIVE_DISCOUNT_EXPERIMENT_KEY</text>
       </register>
       <register name="m" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzXD4=</text>
+        <text encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzLmNvbnRhaW5zKGNvbmZpZy5nZXRUYXNrSWQoKSkgJiYKICAgICAgICAgICAgICAgICAgICAgICAgIWlzQ29tcG9zZUFkZGl0aW9uYWxWZXJzaW9uTWF0Y2goY29uZmlnLmdldFRhc2tJZCgpLCBwbGF0Zm9ybSwgaW9zVmVyc2lvbiwgYW5kcm9pZFZlcnNpb24sIGNvbW1vbkJpekNvbmZpZykpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0K</text>
@@ -357,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzXD4=</last-search>
+      <last-search encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</last-pattern>
       <last-replace>Money.dollar</last-replace>
       <last-substitute>new Dollar</last-substitute>
       <last-dir>1</last-dir>
@@ -367,7 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
         <entry>todo</entry>
         <entry>TODL</entry>
         <entry>TODO</entry>
@@ -387,6 +386,7 @@
         <entry>setTicketType</entry>
         <entry encoding="base64">XDx0aWNrZXRUeXBlU2V0XD4=</entry>
         <entry encoding="base64">XDxjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzXD4=</entry>
+        <entry encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/User/user/g</entry>

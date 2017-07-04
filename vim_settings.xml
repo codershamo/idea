@@ -105,7 +105,12 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499139100662" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499140216594">
+        <mark key="[" line="304" column="12" />
+        <mark key="]" line="304" column="15" />
+        <mark key="^" line="304" column="15" />
+        <mark key="." line="304" column="15" />
+      </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/additional/PackageProduct2QAdditionalProductInfo.java" timestamp="1499047111596" />
       <file name="$USER_HOME$/workplace/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/util/ABTestUtilTest.java" timestamp="1498807835887" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/listener/ABCacheInitListener.java" timestamp="1498791650736" />

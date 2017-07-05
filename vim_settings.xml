@@ -19,6 +19,13 @@
         <mark key="^" line="84" column="63" />
         <mark key="." line="85" column="4" />
       </file>
+      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/ABRouter.java" timestamp="1499149106910">
+        <mark key="'" line="165" column="24" />
+        <mark key="[" line="165" column="105" />
+        <mark key="]" line="166" column="102" />
+        <mark key="." line="166" column="102" />
+        <mark key="^" line="166" column="102" />
+      </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/VoucherLowPriceProcessor.java" timestamp="1499061080491">
         <mark key="[" line="58" column="9" />
         <mark key="]" line="58" column="8" />
@@ -187,6 +194,13 @@
         <mark key="^" line="19" column="52" />
         <mark key="." line="19" column="52" />
       </file>
+      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" timestamp="1499149152144">
+        <mark key="'" line="90" column="24" />
+        <mark key="[" line="146" column="71" />
+        <mark key="]" line="147" column="104" />
+        <mark key="^" line="147" column="104" />
+        <mark key="." line="147" column="104" />
+      </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -254,11 +268,12 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499157343267">
-        <mark key="[" line="772" column="57" />
-        <mark key="]" line="773" column="67" />
-        <mark key="^" line="773" column="67" />
-        <mark key="." line="773" column="67" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499237030324">
+        <mark key="'" line="141" column="55" />
+        <mark key="[" line="773" column="63" />
+        <mark key="]" line="773" column="64" />
+        <mark key="^" line="773" column="64" />
+        <mark key="." line="773" column="64" />
       </file>
       <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser4Ordinary.java" timestamp="1498791436438" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/FriendShipVoucherServiceImpl.java" timestamp="1499065410492">
@@ -283,6 +298,9 @@
       </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/config/HotelVipConfig.java" timestamp="1499140907625" />
       <file name="/HotelPriceServiceImpl.java" timestamp="1499063932529" />
+      <file name="/Dummy.txt" timestamp="1499237032933">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workplace/demo/src/main/resources/ApplicationContext.xml" timestamp="1499228466510">
         <mark key="[" line="13" column="63" />
         <mark key="]" line="13" column="63" />
@@ -333,7 +351,6 @@
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/HourlyPriceMaker.java" timestamp="1499086356907" />
     </filemarks>
     <jumps>
-      <jump line="341" column="165" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
       <jump line="723" column="16" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
       <jump line="645" column="16" filename="C:/Users/xuefeng.sha.QUNARSERVERS/.m2/repository/com/qunar/hotel/price/h_hprice_common/1.2.90/h_hprice_common-1.2.90.jar!/com/qunar/hotel/price/bean/PriceEntry.class" />
       <jump line="48" column="38" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/rebuild/SpecialRoomCloseHandler.java" />
@@ -433,13 +450,14 @@
       <jump line="143" column="8" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
       <jump line="332" column="15" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
       <jump line="90" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
+      <jump line="141" column="55" filename="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>l</text>
       </register>
       <register name="m" type="4">
         <text />

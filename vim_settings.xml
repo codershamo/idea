@@ -67,10 +67,10 @@
       <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/promotion/Condition.java" timestamp="1499225971538">
         <mark key="[" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/workplace/h_hprice_api/src/main/java/com/qunar/hotel/price/service/impl/ListPriceApiServiceImpl.java" timestamp="1499053519747">
-        <mark key="[" line="798" column="0" />
-        <mark key="]" line="798" column="0" />
-        <mark key="." line="798" column="0" />
+      <file name="$USER_HOME$/workplace/h_hprice_api/src/main/java/com/qunar/hotel/price/service/impl/ListPriceApiServiceImpl.java" timestamp="1499234302407">
+        <mark key="[" line="782" column="0" />
+        <mark key="]" line="782" column="0" />
+        <mark key="." line="782" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/promotion/RuleAdaptor.java" timestamp="1499226192162">
         <mark key="[" line="12" column="29" />
@@ -90,7 +90,7 @@
         <mark key="." line="25" column="39" />
         <mark key="^" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/promtion/demo/RuleAdaptor.java" timestamp="1499226175450">
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/promtion/demo/RuleAdaptor.java" timestamp="1499234120427">
         <mark key="[" line="15" column="52" />
         <mark key="]" line="12" column="12" />
         <mark key="^" line="12" column="12" />
@@ -282,9 +282,6 @@
       </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/config/HotelVipConfig.java" timestamp="1499140907625" />
       <file name="/HotelPriceServiceImpl.java" timestamp="1499063932529" />
-      <file name="/Dummy.txt" timestamp="1499221227640">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workplace/demo/src/main/resources/ApplicationContext.xml" timestamp="1499228466510">
         <mark key="[" line="13" column="63" />
         <mark key="]" line="13" column="63" />

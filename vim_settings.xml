@@ -132,6 +132,12 @@
         <mark key="^" line="109" column="60" />
         <mark key="." line="109" column="60" />
       </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/seq/Test.java" timestamp="1499218172082">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/datateam/abtest/qabtest-client/1.1.7/qabtest-client-1.1.7.jar!/com/qunar/datateam/abtest/abclient4j/ABTestHelper.class" timestamp="1498792802469" />
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/SortByTicketTypeHandler.java" timestamp="1499072969889" />
       <file name="$USER_HOME$/workplace/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/base/util/ABTestUtil.java" timestamp="1498792470344" />
@@ -365,10 +371,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">d2hpdGUg</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">d2hpdGUg</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -377,37 +383,37 @@
         <text encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzLmNvbnRhaW5zKGNvbmZpZy5nZXRUYXNrSWQoKSkgJiYKICAgICAgICAgICAgICAgICAgICAgICAgIWlzQ29tcG9zZUFkZGl0aW9uYWxWZXJzaW9uTWF0Y2goY29uZmlnLmdldFRhc2tJZCgpLCBwbGF0Zm9ybSwgaW9zVmVyc2lvbiwgYW5kcm9pZFZlcnNpb24sIGNvbW1vbkJpekNvbmZpZykpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gd2hpdGUgPSBGaWxlcy5yZWFkTGluZXMobmV3IEZpbGUoIkM6XFxVc2Vyc1xceHVlZmVuZy5zaGFcXERlc2t0b3BcXHcuY3N2IiksIENoYXJzZXRzLlVURl84KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vxL/HsNa71qez1rO1s7W1xKOsxuTL+7XEsru0psDtCg==</text>
+        <text encoding="base64">aW1wb3J0IHF1bmFyLmFnaWxlLkZpbGVzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vxL/HsNa71qez1rO1s7W1xKOsxuTL+7XEsru0psDtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIL7Gteq07srbyK8KICAgIFN0cmluZyBDT1VQT05fSE9URUwgPSAiQ09VUE9OX0hPVEVMIjsK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIL7Gteq07srbyK8KICAgIFN0cmluZyBDT1VQT05fSE9URUwgPSAiQ09VUE9OX0hPVEVMIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcHJpY2UgPSBwcmljZUVudHJ5LmdldFByaWNlKGApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

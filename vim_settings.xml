@@ -67,6 +67,7 @@
       <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/promotion/Condition.java" timestamp="1499225971538">
         <mark key="[" line="7" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13114_20170628_addition_display_optimize2-SNAPSHOT/qta-open-product-api-DZS-13114_20170628_addition_display_optimize2-20170703.122102-4.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.class" timestamp="1499236061897" />
       <file name="$USER_HOME$/workplace/h_hprice_api/src/main/java/com/qunar/hotel/price/service/impl/ListPriceApiServiceImpl.java" timestamp="1499234302407">
         <mark key="[" line="782" column="0" />
         <mark key="]" line="782" column="0" />
@@ -196,7 +197,7 @@
         <mark key="." line="407" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/13958_1.1.153-SNAPSHOT/qta-open-product-api-13958_1.1.153-20170623.090737-31.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProduct.class" timestamp="1498614943423" />
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1499075445063" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1499235698584" />
       <file name="$USER_HOME$/workplace/catalysis/src/main/java/com/qunar/mobile/utils/ABTestUtil.java" timestamp="1498789437722" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />

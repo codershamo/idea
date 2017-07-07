@@ -14,12 +14,14 @@
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1499398069803" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/VoucherLowPriceProcessor.java" timestamp="1499341232881">
         <mark key="[" line="58" column="9" />
         <mark key="]" line="58" column="8" />
         <mark key="^" line="58" column="8" />
         <mark key="." line="58" column="8" />
+      </file>
+      <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" timestamp="1499398653073">
+        <mark key="'" line="94" column="24" />
       </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
@@ -53,11 +55,11 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" timestamp="1499326453598">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="22" column="72" />
-        <mark key="^" line="22" column="72" />
-        <mark key="." line="22" column="72" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" timestamp="1499398715818">
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="41" column="72" />
+        <mark key="^" line="41" column="72" />
+        <mark key="." line="41" column="72" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/config/PromotionConfig.java" timestamp="1479134224785">
         <mark key="[" line="254" column="27" />
@@ -65,7 +67,6 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499397702584" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
@@ -101,9 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1598" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
-      <jump line="1599" column="48" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
-      <jump line="1678" column="4" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
       <jump line="1771" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
       <jump line="1707" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
       <jump line="1710" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
@@ -201,6 +199,9 @@
       <jump line="155" column="97" filename="$USER_HOME$/workplace/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/web/biz/HotelApiController.java" />
       <jump line="82" column="42" filename="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" />
       <jump line="21" column="28" filename="$USER_HOME$/workplace/hprice-galaxy/service/src/test/java/com/qunar/hotel/price/service/impl/HotelCouponConfigTest.java" />
+      <jump line="150" column="8" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
+      <jump line="343" column="15" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
+      <jump line="94" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -213,7 +214,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaXR5UGFja2FnZUNvdXBvbk1hcFw+</text>
+        <text encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>wrapperRule</text>
@@ -538,9 +539,9 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No q
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaXR5UGFja2FnZUNvdXBvbk1hcFw+</last-search>
+      <last-search encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaXR5UGFja2FnZUNvdXBvbk1hcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</last-pattern>
       <last-replace>Money.dollar</last-replace>
       <last-substitute>new Dollar</last-substitute>
       <last-dir>1</last-dir>
@@ -564,10 +565,10 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No q
         <entry>setTicketType</entry>
         <entry encoding="base64">XDx0aWNrZXRUeXBlU2V0XD4=</entry>
         <entry encoding="base64">XDxjb21wb3NlQWRkaXRpb25hbEV4cGVyaW1lbnRzXD4=</entry>
-        <entry encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</entry>
         <entry encoding="base64">XDxlbnZCVWlkXD4=</entry>
         <entry encoding="base64">XDxleHBlcmltZW50VWlkXD4=</entry>
         <entry encoding="base64">XDxjaXR5UGFja2FnZUNvdXBvbk1hcFw+</entry>
+        <entry encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/User/user/g</entry>

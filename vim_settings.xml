@@ -17,6 +17,12 @@
         <mark key="^" line="58" column="8" />
         <mark key="." line="58" column="8" />
       </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/BusinessUserPriceProcessor.java" timestamp="1499431384286">
+        <mark key="[" line="76" column="105" />
+        <mark key="]" line="64" column="76" />
+        <mark key="." line="64" column="76" />
+        <mark key="^" line="64" column="76" />
+      </file>
       <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" timestamp="1499424243704">
         <mark key="'" line="94" column="24" />
       </file>
@@ -80,7 +86,7 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499421168447">
+      <file name="/Dummy.txt" timestamp="1499430994460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
@@ -212,10 +218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>JsonV2Utils</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>JsonV2Utils</text>
       </register>
       <register name="m" type="4">
         <text />

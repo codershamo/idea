@@ -12,6 +12,7 @@
         <mark key="^" line="333" column="18" />
         <mark key="." line="333" column="18" />
       </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QProductRemoteImpl.java" timestamp="1499667457661" />
       <file name="/a.dummy" timestamp="1499226042743">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,6 +22,7 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-price-api/1.0.2/open-price-api-1.0.2.jar!/com/qunar/hotel/qta/open/service/QOrderPriceRemote.class" timestamp="1499667486253" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/VoucherLowPriceProcessor.java" timestamp="1499341232881">
         <mark key="[" line="58" column="9" />
         <mark key="]" line="58" column="8" />
@@ -33,13 +35,14 @@
         <mark key="." line="77" column="34" />
         <mark key="^" line="77" column="34" />
       </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/controller/QBabyController.java" timestamp="1499668841829" />
       <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" timestamp="1499424243704">
         <mark key="'" line="94" column="24" />
       </file>
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ConfigKey.java" timestamp="1499660196687" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ConfigKey.java" timestamp="1499666992657" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/catalina.base_IS_UNDEFINED/logs/err.log" timestamp="1499332968746">
         <mark key="[" line="0" column="0" />
       </file>
@@ -85,6 +88,8 @@
         <mark key="^" line="57" column="58" />
         <mark key="." line="57" column="58" />
       </file>
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/resources/dubbo/service-pub.xml" timestamp="1499667482701" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QOrderPriceRemoteImpl.java" timestamp="1499668955251" />
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
       </file>

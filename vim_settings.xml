@@ -43,6 +43,7 @@
         <mark key="[" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/constants/RequestUrlLoader.java" timestamp="1499744353607" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.197/h_hprice_common-1.2.197-sources.jar!/com/qunar/hotel/price/bean/PackagePriceEntry.java" timestamp="1499932945719" />
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/AbstractAction.java" timestamp="1499744175079" />
       <file name="$USER_HOME$/workplace/springtest/src/main/webapp/WEB-INF/views/registerForm.jsp" timestamp="1492308908528">
         <mark key="[" line="10" column="16" />
@@ -59,7 +60,7 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499931965879">
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499932736046">
         <mark key="]" line="317" column="32" />
         <mark key="^" line="317" column="32" />
         <mark key="." line="317" column="32" />
@@ -94,6 +95,7 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.197/h_hprice_common-1.2.197-sources.jar!/com/qunar/hotel/price/base/bean/PackageCouponInfo.java" timestamp="1499932738302" />
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QOrderPriceRemoteImpl.java" timestamp="1499742769551" />
       <file name="$USER_HOME$/workplace/sprite/src/main/java/com/qunar/mobile/hotel/qconfig/CpnConfig.java" timestamp="1499739101516" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/pom.xml" timestamp="1499754544978" />

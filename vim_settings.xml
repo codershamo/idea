@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/processor/WeChatConsumeTask.java" timestamp="1499913993811" />
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/listener/WechatCouponTakenListener.java" timestamp="1499918833512" />
       <file name="/a.dummy" timestamp="1499226042743">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,6 +35,7 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/qta-open-product-api-DZS-13910_20170703_hotel_voucher_package-20170712.063224-5.jar!/com/qunar/hotel/qta/open/bean/price/query/QAdditionalProductQuery.class" timestamp="1499919415005" />
       <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/promotion/Condition.java" timestamp="1499225971538">
         <mark key="[" line="7" column="18" />
       </file>
@@ -65,12 +67,14 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499916024492">
+      <file name="/Dummy.txt" timestamp="1499918834221">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-common/src/main/java/com/qunar/hotel/qta/coupon/common/constants/CouponConstants.java" timestamp="1499918877466" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/listener/ListenerInit.java" timestamp="1499918858689" />
       <file name="$USER_HOME$/workplace/open-price/provider/pom.xml" timestamp="1498793118472">
         <mark key="[" line="108" column="21" />
       </file>

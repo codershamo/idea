@@ -16,6 +16,7 @@
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/h_hprice_common-DZS-13910_20170703_hotel_voucher_package-SNAPSHOT-sources.jar!/com/qunar/hotel/price/bean/jsonserializer/PackageInfo.java" timestamp="1499942258010" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/CashVoucherSubractApiService.java" timestamp="1499744069368" />
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
@@ -23,8 +24,12 @@
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/catalina.base_IS_UNDEFINED/logs/err.log" timestamp="1499332968746">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" timestamp="1499933991639" />
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/h_hprice_common-DZS-13910_20170703_hotel_voucher_package-SNAPSHOT-sources.jar!/com/qunar/hotel/price/base/bean/PackageCouponInfo.java" timestamp="1499939066966" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" timestamp="1499942210155">
+        <mark key="[" line="964" column="0" />
+        <mark key="]" line="964" column="0" />
+        <mark key="." line="964" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/h_hprice_common-DZS-13910_20170703_hotel_voucher_package-SNAPSHOT-sources.jar!/com/qunar/hotel/price/base/bean/PackageCouponInfo.java" timestamp="1499940631877" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
       </file>
@@ -39,6 +44,7 @@
         <mark key="." line="39" column="94" />
         <mark key="^" line="39" column="94" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/h_hprice_common-DZS-13910_20170703_hotel_voucher_package-SNAPSHOT-sources.jar!/com/qunar/hotel/price/bean/PackagePriceEntry.java" timestamp="1499941759309" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/CashVoucherApiService.java" timestamp="1499744049590" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />
@@ -68,18 +74,18 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499939273385">
-        <mark key="[" line="325" column="11" />
-        <mark key="]" line="325" column="11" />
-        <mark key="^" line="325" column="11" />
-        <mark key="." line="325" column="11" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499941727766">
+        <mark key="[" line="331" column="34" />
+        <mark key="]" line="331" column="34" />
+        <mark key="^" line="331" column="34" />
+        <mark key="." line="331" column="34" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/bean/jsonserializer/PackageProductSource.java" timestamp="1499933879059">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499939421400" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499940384491" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
@@ -90,11 +96,12 @@
         <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1499743957866" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/h_hprice_common-DZS-13910_20170703_hotel_voucher_package-SNAPSHOT-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageConfig.java" timestamp="1499942173609" />
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" timestamp="1499938825096" />
-      <file name="/Dummy.txt" timestamp="1499938831446">
+      <file name="/Dummy.txt" timestamp="1499942335012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-common/src/main/java/com/qunar/hotel/qta/coupon/common/constants/CouponConstants.java" timestamp="1499918877466" />
@@ -106,6 +113,7 @@
       <file name="$USER_HOME$/workplace/open-price/provider/pom.xml" timestamp="1498793118472">
         <mark key="[" line="108" column="21" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/qta-open-product-api-DZS-13910_20170703_hotel_voucher_package-20170712.063224-5.jar!/com/qunar/hotel/qta/open/bean/price/query/PackageProduct.class" timestamp="1499940379180" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/config/HotelCouponConfig.java" timestamp="1499931298998">
         <mark key="[" line="106" column="15" />
         <mark key="]" line="106" column="85" />
@@ -225,11 +233,11 @@
       <jump line="94" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBwZS4K</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>车</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -241,34 +249,34 @@
         <text>wrapperRule</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBwZS4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoUGFja2FnZVR5cGUuQ09VUE9OID09IHRoaXMudHlwZSl7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFja2FnZUluZm8uc2V0VHlwZU5hbWUoUGFja2FnZVR5cGUuQ0hFQVBfQ0FSLmdldFR5cGVOYW1lKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBQYWNrYWdlUHJvZHVjdFNvdXJjZSBob3RlbF9jb3Vwb24gPSBQYWNrYWdlUHJvZHVjdFNvdXJjZS5wYXJzZUJ5TmFtZSgiSE9URUxfQ09VUE9OIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGhvdGVsX2NvdXBvbi5jb2RlKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNvdXJjZSA9IHBhY2thZ2VDb3Vwb25JbmZvLmdldFNvdXJjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIHByaWNlID0gQmlnRGVjaW1hbC52YWx1ZU9mKHByaWNlRW50cnkuZ2V0UHJpY2VBcnIoKVswXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoUGFja2FnZVR5cGUuQ09VUE9OID09IHRoaXMudHlwZSl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBmaWx0ZXJIb3RlbENvdXBvbihIb3RlbFByaWNlUXVlcnkgcXVlcnksIExpc3Q8UGFja2FnZUNvdXBvbkluZm8+IGNvdXBvbkluZm9MaXN0LCBXcmFwcGVyUHJpY2VFbnRyeSB3cmFwcGVyUHJpY2VFbnRyeSkgewogICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShjb3Vwb25JbmZvTGlzdCkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBpZiAoaXNCbGFja1VzZXIocXVlcnkuZ2V0VXNlckJpdCgpKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIFByaWNlRW50cnkgcHJpY2VFbnRyeSA9IHdyYXBwZXJQcmljZUVudHJ5LnByaWNlRW50cnk7CiAgICAgICAgQmlnRGVjaW1hbCBwcmljZSA9IEJpZ0RlY2ltYWwudmFsdWVPZihwcmljZUVudHJ5LmdldFByaWNlKCkpOwogICAgICAgIEhvdGVsQ291cG9uQ29uZmlnIGhvdGVsQ291cG9uQ29uZmlnID0gUVR5cGVkQ29uZmlnLmdldChIb3RlbENvdXBvbkNvbmZpZy5jbGFzcyk7CiAgICAgICAgaWYgKGhvdGVsQ291cG9uQ29uZmlnLmdldEhvdGVsQ291cG9uTWluQXZhaWxhYmxlUHJpY2UoKSAhPSBudWxsICYmCiAgICAgICAgICAgICAgICBwcmljZS5jb21wYXJlVG8oaG90ZWxDb3Vwb25Db25maWcuZ2V0SG90ZWxDb3Vwb25NaW5BdmFpbGFibGVQcmljZSgpKSA+IDApIHsKICAgICAgICAgICAgY291cG9uSW5mb0xpc3QucmVtb3ZlSWYoeCAtPiBIT1RFTF9DT1VQT05fU09VUkNFLmVxdWFscyh4LmdldFNvdXJjZSgpKSAmJiAhaG90ZWxDb3Vwb25Db25maWcuZ2V0Q29kZShwcmljZS5kb3VibGVWYWx1ZSgpKS5lcXVhbHMoeC5nZXRDb3Vwb25JZCgpKSk7CiAgICAgICAgfWVsc2UgewogICAgICAgICAgICBjb3Vwb25JbmZvTGlzdC5yZW1vdmVJZihIT1RFTF9DT1VQT05fU09VUkNFOjplcXVhbHMpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1ZhbGlkSG90ZWxDb3Vwb24oSG90ZWxQcmljZVF1ZXJ5IHF1ZXJ5LCBQYWNrYWdlQ291cG9uSW5mbyBjb3Vwb25JbmZvLCBXcmFwcGVyUHJpY2VFbnRyeSB3cmFwcGVyUHJpY2VFbnRyeSkgewogICAgICAgIGlmIChpc0JsYWNrVXNlcigpKQogICAgfQoK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBQYWNrYWdlUHJvZHVjdFNvdXJjZSBob3RlbF9jb3Vwb24gPSBQYWNrYWdlUHJvZHVjdFNvdXJjZS5wYXJzZUJ5TmFtZSgiSE9URUxfQ09VUE9OIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGhvdGVsX2NvdXBvbi5jb2RlKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

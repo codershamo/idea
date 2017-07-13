@@ -11,7 +11,7 @@
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1499916015746">
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1499938864104">
         <mark key="[" line="287" column="0" />
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
@@ -24,6 +24,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" timestamp="1499933991639" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/h_hprice_common-DZS-13910_20170703_hotel_voucher_package-SNAPSHOT-sources.jar!/com/qunar/hotel/price/base/bean/PackageCouponInfo.java" timestamp="1499939066966" />
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
       </file>
@@ -67,7 +68,7 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499935247128">
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499939273385">
         <mark key="[" line="325" column="11" />
         <mark key="]" line="325" column="11" />
         <mark key="^" line="325" column="11" />
@@ -78,7 +79,7 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499936273380" />
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1499939421400" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
@@ -92,7 +93,8 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499934182097">
+      <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" timestamp="1499938825096" />
+      <file name="/Dummy.txt" timestamp="1499938831446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-common/src/main/java/com/qunar/hotel/qta/coupon/common/constants/CouponConstants.java" timestamp="1499918877466" />

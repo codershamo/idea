@@ -67,10 +67,11 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499932736046">
-        <mark key="]" line="317" column="32" />
-        <mark key="^" line="317" column="32" />
-        <mark key="." line="317" column="32" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1499935247128">
+        <mark key="[" line="325" column="11" />
+        <mark key="]" line="325" column="11" />
+        <mark key="^" line="325" column="11" />
+        <mark key="." line="325" column="11" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/bean/jsonserializer/PackageProductSource.java" timestamp="1499933879059">
         <mark key="[" line="55" column="0" />

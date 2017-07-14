@@ -94,11 +94,11 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1500020963706">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
-        <mark key="^" line="341" column="54" />
-        <mark key="." line="277" column="0" />
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1500024193072">
+        <mark key="[" line="354" column="88" />
+        <mark key="]" line="356" column="24" />
+        <mark key="^" line="356" column="24" />
+        <mark key="." line="356" column="24" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/additional/PackageProduct2QAdditionalProductInfo.java" timestamp="1499942412354" />
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/rule/RuleExecutorImpl.java" timestamp="1500003732615" />
@@ -114,11 +114,12 @@
       </file>
       <file name="$USER_HOME$/workplace/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1499743957866" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/h_hprice_common-DZS-13910_20170703_hotel_voucher_package-SNAPSHOT-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageConfig.java" timestamp="1499942173609" />
+      <file name="$USER_HOME$/workplace/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/CashVoucherFunction.java" timestamp="1500023784230" />
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" timestamp="1499938825096" />
-      <file name="/Dummy.txt" timestamp="1500020247275">
+      <file name="/Dummy.txt" timestamp="1500024194982">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/DistributeCommonBenefitBeforeOrderAction.java" timestamp="1500013401171" />
@@ -265,11 +266,11 @@
       <jump line="94" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBob3RlbENvdXBvbkNudCA9IDA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <text />

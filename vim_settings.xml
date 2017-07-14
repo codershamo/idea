@@ -5,6 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/processor/WeChatConsumeTask.java" timestamp="1499913993811" />
       <file name="$USER_HOME$/workplace/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/listener/WechatCouponTakenListener.java" timestamp="1499918833512" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/h_hprice_common-DZS-13910_20170703_hotel_voucher_package-SNAPSHOT-sources.jar!/com/qunar/hotel/price/bean/PriceEntry.java" timestamp="1500016114693" />
       <file name="/a.dummy" timestamp="1499226042743">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,7 +94,7 @@
       <file name="$USER_HOME$/workplace/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1478589622196">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1500013916609">
+      <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1500016372831">
         <mark key="[" line="341" column="26" />
         <mark key="]" line="341" column="54" />
         <mark key="^" line="341" column="54" />
@@ -137,6 +138,7 @@
         <mark key="^" line="106" column="85" />
         <mark key="." line="106" column="85" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-13910_20170703_hotel_voucher_package-SNAPSHOT/h_hprice_common-DZS-13910_20170703_hotel_voucher_package-SNAPSHOT-sources.jar!/com/qunar/hotel/price/base/commonconf/PackageProductConfig.java" timestamp="1500016384018" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>

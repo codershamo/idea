@@ -141,11 +141,11 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/logback/LogbackTest.java" timestamp="1500112327633">
-        <mark key="[" line="11" column="65" />
-        <mark key="]" line="11" column="81" />
-        <mark key="^" line="11" column="81" />
-        <mark key="." line="11" column="81" />
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/logback/LogbackTest.java" timestamp="1500135420851">
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="38" />
+        <mark key="^" line="22" column="38" />
+        <mark key="." line="22" column="38" />
       </file>
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
@@ -231,7 +231,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="34" column="66" />
       </file>
-      <file name="/fragment.java" timestamp="1500126599433">
+      <file name="/fragment.java" timestamp="1500135354784">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -338,8 +338,8 @@
       <jump line="219" column="12" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdGF0dXNQcmludGVyLnByaW50KGxjKTsK</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -354,31 +354,31 @@
         <text>java java java java java</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICBTdGF0dXNQcmludGVyLnByaW50KGxjKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic3MiKTsKICAgICAgICBsb2dnZXIud2Fybigic2hhIGxvZ2JhY2sgdGVzdCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lbmNvZGVyLmRvRW5jb2RlKGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5jb2Rlci5pbml0KFN5c3RlbS5vdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lbmNvZGVyLmRvRW5jb2RlKGV2ZW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtvcmcuc2xmNGoudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtvcmcuc2xmNGoudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5jb2Rlci5pbml0KFN5c3RlbS5vdXQpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtvcmcuc2xmNGoudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>

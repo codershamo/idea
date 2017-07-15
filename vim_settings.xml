@@ -90,11 +90,6 @@
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/compress/appender/CompressRollingFileAppender.java" timestamp="1500119800670">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" timestamp="1500120646630" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
@@ -189,10 +184,11 @@
         <mark key="^" line="356" column="24" />
         <mark key="." line="356" column="24" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/log/compress/test/Test.java" timestamp="1500130426527">
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/log/compress/test/Test.java" timestamp="1500131067904">
         <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="46" />
-        <mark key="." line="18" column="46" />
+        <mark key="]" line="43" column="13" />
+        <mark key="." line="43" column="13" />
+        <mark key="^" line="43" column="13" />
       </file>
       <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/recovery/LZStringOutputStream.java" timestamp="1500119772773">
         <mark key="[" line="2" column="0" />
@@ -207,11 +203,6 @@
         <mark key="^" line="21" column="76" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1500114526292" />
-      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/ZipFileUtil.java" timestamp="1500104300231">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/ZipFileUtilTest.java" timestamp="1500100840232">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="18" column="30" />

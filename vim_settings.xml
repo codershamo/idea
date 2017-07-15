@@ -52,6 +52,7 @@
       <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/promotion/Condition.java" timestamp="1499225971538">
         <mark key="[" line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/ch/qos/logback/core/recovery/ResilientFileLZOutputStream.java" timestamp="1500120225116" />
       <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/hackathon/recovery/LZStringOutputStream.java" timestamp="1500119631675">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -105,17 +106,24 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/log_compress/src/main/java/com/qunar/log/compress/appender/CompressRollingFileAppender.java" timestamp="1500119475690" />
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/log/compress/test/LogOutput.java" timestamp="1500120336117" />
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/resources/logback.xml" timestamp="1500120572836">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/hackathon/appender/CompressRollingFileAppender.java" timestamp="1500119270465">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/log/compress/appender/CompressRollingFileAppender.java" timestamp="1500120436013" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/XmlUtils.java" timestamp="1499333786954">
         <mark key="[" line="56" column="62" />
         <mark key="]" line="57" column="58" />
@@ -148,13 +156,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/ch/qos/logback/core/recovery/ResilientFileCommonOutputStream.java" timestamp="1500120444355" />
       <file name="C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1500114526292" />
       <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/ZipFileUtil.java" timestamp="1500104300231">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500024194982">
+      <file name="/Dummy.txt" timestamp="1500120174179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/log_compress/src/main/resources/logback.xml" timestamp="1500118945539" />
@@ -276,7 +285,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUxaT3V0cHV0U3RyZWFtOwo=</text>
+        <text encoding="base64">ICAgIDxhcHBlbmRlciBuYW1lPSJjb25zb2xlIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5Db25zb2xlQXBwZW5kZXIiPgogICAgICAgIDxlbmNvZGluZz5VVEYtODwvZW5jb2Rpbmc+CiAgICAgICAgPGVuY29kZXI+CiAgICAgICAgICAgIDxwYXR0ZXJuPlslZHtISDptbTpzcy5TU1N9XSBRVHJhY2VJZFslWHtxdHJhY2VpZH1dWyVYe3RyYWNlSWR9XVslaGlnaGxpZ2h0KCUtNXApXVslbG9nZ2VyezB9XSAlbSVuPC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4KICAgICAgICA8ZmlsdGVyIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLmZpbHRlci5UaHJlc2hvbGRGaWx0ZXIiPgogICAgICAgICAgICA8bGV2ZWw+SU5GTzwvbGV2ZWw+CiAgICAgICAgPC9maWx0ZXI+CiAgICA8L2FwcGVuZGVyPgo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -291,31 +300,31 @@
         <text>java java java java java</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUxaT3V0cHV0U3RyZWFtOwo=</text>
+        <text encoding="base64">ICAgIDxhcHBlbmRlciBuYW1lPSJjb25zb2xlIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5Db25zb2xlQXBwZW5kZXIiPgogICAgICAgIDxlbmNvZGluZz5VVEYtODwvZW5jb2Rpbmc+CiAgICAgICAgPGVuY29kZXI+CiAgICAgICAgICAgIDxwYXR0ZXJuPlslZHtISDptbTpzcy5TU1N9XSBRVHJhY2VJZFslWHtxdHJhY2VpZH1dWyVYe3RyYWNlSWR9XVslaGlnaGxpZ2h0KCUtNXApXVslbG9nZ2VyezB9XSAlbSVuPC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4KICAgICAgICA8ZmlsdGVyIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLmZpbHRlci5UaHJlc2hvbGRGaWx0ZXIiPgogICAgICAgICAgICA8bGV2ZWw+SU5GTzwvbGV2ZWw+CiAgICAgICAgPC9maWx0ZXI+CiAgICA8L2FwcGVuZGVyPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUNvbW1vbk91dHB1dFN0cmVhbTsK</text>
+        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUxaT3V0cHV0U3RyZWFtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5sb2cuY29tcHJlc3MuYWxnb3JpdGhtLmx6c3RyaW5nLkxaU3RyaW5nOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUNvbW1vbk91dHB1dFN0cmVhbTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5sb2cuY29tcHJlc3MuYWxnb3JpdGhtLmx6c3RyaW5nLkxaU3RyaW5nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUNvbW1vbk91dHB1dFN0cmVhbTsKaW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUxaT3V0cHV0U3RyZWFtOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5sb2cuY29tcHJlc3MuYWxnb3JpdGhtLmx6c3RyaW5nLkxaU3RyaW5nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xNDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUNvbW1vbk91dHB1dFN0cmVhbTsKaW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUxaT3V0cHV0U3RyZWFtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xNDwvdmVyc2lvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>

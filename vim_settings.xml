@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1499226042743">
+      <file name="/a.dummy" timestamp="1500100841396">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/learn/untitled/src/main/java/com/qunar/commonTools/Test.java" timestamp="1484537183244">
@@ -31,6 +31,12 @@
       </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/catalina.base_IS_UNDEFINED/logs/err.log" timestamp="1499332968746">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/SnappyFileUtil.java" timestamp="1500101653014">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
@@ -86,7 +92,7 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/ZipFileUtil.java" timestamp="1500098087570">
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/ZipFileUtil.java" timestamp="1500101454009">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="27" column="42" />
         <mark key="^" line="27" column="42" />
@@ -101,8 +107,11 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/ZipFileUtilTest.java" timestamp="1500098368738">
-        <mark key="[" line="11" column="30" />
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/ZipFileUtilTest.java" timestamp="1500100840232">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1500024194982">
         <mark key="[" line="0" column="0" />
@@ -121,6 +130,12 @@
       </file>
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/FileUtilTest.java" timestamp="1500101003392">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="34" column="66" />
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/userId/UserIdTableTest.java" timestamp="1499677307520">
         <mark key="[" line="12" column="31" />
@@ -242,10 +257,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogsNHOxLz+0bnL9bPJemlwuPHKvQogICAgICoKICAgICAqIEBwYXJhbSBmaWxlcyAgICAgICDQ6NKq0bnL9bXEzsS8/gogICAgICogQHBhcmFtIHNuYXBweUZpbGVQYXRoING5y/W687XEemlwzsS8/sK3vrYgLMjnIkQ6L3Rlc3QvYWEuemlwIjsKICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">amF2YWphdmEg</text>
+        <text>p</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -257,34 +272,34 @@
         <text>java java java java java</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogsNHOxLz+0bnL9bPJemlwuPHKvQogICAgICoKICAgICAqIEBwYXJhbSBmaWxlcyAgICAgICDQ6NKq0bnL9bXEzsS8/gogICAgICogQHBhcmFtIHNuYXBweUZpbGVQYXRoING5y/W687XEemlwzsS8/sK3vrYgLMjnIkQ6L3Rlc3QvYWEuemlwIjsKICAgICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5wdXQgPSAiamF2YSBqYXZhIGphdmEgamF2YSBqYXZhIGphdmEgamF2YSBqYXZhIGphdmEgamF2YSBqYXZhamF2YSBqYXZhIGphdmEgamF2YSBqYXZhIjsK</text>
+        <text encoding="base64">ICAgICAgICBPdXRwdXRTdHJlYW0gb3V0cHV0U3RyZWFtID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0oZmlsZXNbMV0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBob3RlbENvdXBvbkNudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRTdHJlYW0uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDM2MritKbA7b7GterIryh0aWNrZXRUeXBlPUgpLCC62sP7taXTw7unoaK1pbzk0rmxqLzbvfC27jw1MKGisai828f4vOSyu8L61+O1xLTysPy+xrXqtPq98MivCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gsNG7urPlx/i1xNfWvdrQtMjrtb1aaXBBcmNoaXZlRW50cnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNIb3RlbENvdXBvbihjb3Vwb25JbmZvKSkgewogICAgICAgICAgICAgICAgICAgICAgICBob3RlbENvdXBvbkNudCsrOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNIb3RlbENvdXBvbihjb3Vwb25JbmZvKSAmJiBob3RlbENvdXBvbkNudCA+PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzdGFydCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBXcmFwcGVyUHJpY2VFbnRyeSB3cmFwcGVyUHJpY2VFbnRyeSA9IGhvdGVsQ291cG9uLmdldCgpLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxQYWNrYWdlQ291cG9uSW5mbywgV3JhcHBlclByaWNlRW50cnk+IGVudHJ5IDogY291cG9uSW5mb1dyYXBwZXJQcmljZUVudHJ5TWFwLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgaWYgKGlzSG90ZWxDb3Vwb24oZW50cnkuZ2V0S2V5KCkpKSB7CiAgICAgICAgICAgICAgIGVudHJ5LmdldFZhbHVlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIElucHV0U3RyZWFtIGlzID0gRmlsZXMubmV3SW5wdXRTdHJlYW0oUGF0aHMuZ2V0KGZpbGUuZ2V0TmFtZSgpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBob3RlbENvdXBvbi5pZlByZXNlbnQoTWFwLkVudHJ5OjpnZXRWYWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIElucHV0U3RyZWFtIGlzID0gRmlsZXMubmV3SW5wdXRTdHJlYW0oUGF0aHMuZ2V0KGZpbGUuZ2V0TmFtZSgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

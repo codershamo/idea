@@ -53,7 +53,7 @@
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.4/snappy-java-1.1.4-sources.jar!/org/xerial/snappy/SnappyFramedInputStream.java" timestamp="1500094655023">
+      <file name="$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.4/snappy-java-1.1.4-sources.jar!/org/xerial/snappy/SnappyFramedInputStream.java" timestamp="1500095861220">
         <mark key="'" line="211" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/XmlUtils.java" timestamp="1499333786954">
@@ -89,10 +89,11 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/snappy/Demo.java" timestamp="1500094329347">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/snappy/Demo.java" timestamp="1500096061392">
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="15" column="58" />
       </file>
       <file name="/Dummy.txt" timestamp="1500024194982">
         <mark key="[" line="0" column="0" />

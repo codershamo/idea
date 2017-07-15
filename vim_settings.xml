@@ -32,15 +32,16 @@
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/catalina.base_IS_UNDEFINED/logs/err.log" timestamp="1499332968746">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/SnappyFileUtil.java" timestamp="1500109743033">
-        <mark key="[" line="74" column="52" />
-        <mark key="]" line="74" column="54" />
-        <mark key="." line="74" column="54" />
-        <mark key="^" line="74" column="54" />
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/SnappyFileUtil.java" timestamp="1500110673463">
+        <mark key="[" line="28" column="142" />
+        <mark key="]" line="28" column="142" />
+        <mark key="." line="28" column="142" />
+        <mark key="^" line="28" column="143" />
       </file>
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectUtilPos.java" timestamp="1491471341373">
         <mark key="[" line="19" column="58" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/io/BufferedOutputStream.java" timestamp="1500110572939" />
       <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/service/impl/OffLineCouponServiceImpl.java" timestamp="1479176137915">
         <mark key="[" line="10" column="8" />
       </file>
@@ -268,10 +269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text />

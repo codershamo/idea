@@ -3,13 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workplace/hprice_doctor/pom.xml" timestamp="1500119150345">
-        <mark key="[" line="468" column="25" />
-        <mark key="]" line="470" column="23" />
-        <mark key="^" line="470" column="23" />
-        <mark key="." line="470" column="23" />
-      </file>
       <file name="/a.dummy" timestamp="1500104322436">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/log_compress/src/main/resources/test.log" timestamp="1500123593175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/hackathon/recovery/ResilientFileCommonOutputStream.java" timestamp="1500119710582">
@@ -36,11 +33,11 @@
       <file name="$USER_HOME$/workplace/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/service/impl/OffLineCouponServiceImpl.java" timestamp="1479176137915">
         <mark key="[" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/pom.xml" timestamp="1500119184969">
-        <mark key="[" line="257" column="21" />
-        <mark key="]" line="259" column="19" />
-        <mark key="^" line="259" column="19" />
-        <mark key="." line="259" column="19" />
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/pom.xml" timestamp="1500125677258">
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="^" line="262" column="20" />
+        <mark key="." line="258" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/bean/PackagePriceEntry.java" timestamp="1499933931901">
         <mark key="[" line="39" column="86" />
@@ -48,11 +45,25 @@
         <mark key="." line="39" column="94" />
         <mark key="^" line="39" column="94" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" timestamp="1500107372042" />
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" timestamp="1500124248477">
+        <mark key="'" line="219" column="12" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/ClassLoader.java" timestamp="1500125989861" />
       <file name="$USER_HOME$/workplace/demo/src/main/java/com/qunar/hotel/twell/promotion/Condition.java" timestamp="1499225971538">
         <mark key="[" line="7" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.4/snappy-java-1.1.4-sources.jar!/org/xerial/snappy/SnappyFramedInputStream.java" timestamp="1500095861220">
+        <mark key="'" line="211" column="0" />
+      </file>
       <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/ch/qos/logback/core/recovery/ResilientFileLZOutputStream.java" timestamp="1500120225116" />
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/test/ch/qos/logback/core/recovery/ResilientFileCommonOutputStreamTest.java" timestamp="1500124701314">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/resources/test.log" timestamp="1500121908536">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/hackathon/recovery/LZStringOutputStream.java" timestamp="1500119631675">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -61,8 +72,20 @@
       <file name="$USER_HOME$/workplace/springtest/src/main/java/com/qunar/example/bean/CompactDisc.java" timestamp="1491475753086">
         <mark key="[" line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/resources/logback.xml" timestamp="1500112572241">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="11" column="15" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/snappy/Demo.java" timestamp="1500096061392">
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="15" column="58" />
       </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/spi/IOperationImpl.java" timestamp="1497342509978">
         <mark key="[" line="7" column="23" />
@@ -72,6 +95,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" timestamp="1500120646630" />
       <file name="$USER_HOME$/workplace/springtest/src/main/java/spittr/Spitter.java" timestamp="1492351202258">
         <mark key="[" line="71" column="0" />
       </file>
@@ -105,25 +129,38 @@
       <file name="$USER_HOME$/qunar_component/dubbo/dubbo-config/dubbo-config-spring/pom.xml" timestamp="1497407709205">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/SnappyFileUtil.java" timestamp="1500110673463">
+        <mark key="[" line="28" column="142" />
+        <mark key="]" line="28" column="142" />
+        <mark key="." line="28" column="142" />
+        <mark key="^" line="28" column="143" />
+      </file>
       <file name="$USER_HOME$/workplace/log_compress/src/main/java/com/qunar/log/compress/appender/CompressRollingFileAppender.java" timestamp="1500119475690" />
-      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/log/compress/test/LogOutput.java" timestamp="1500120336117" />
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/log/compress/test/LogOutput.java" timestamp="1500126213376">
+        <mark key="[" line="15" column="87" />
+        <mark key="]" line="15" column="79" />
+        <mark key="^" line="15" column="79" />
+        <mark key="." line="15" column="79" />
+      </file>
       <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/xsd/People.java" timestamp="1497359183298">
         <mark key="[" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/workplace/springinaction/Chapter_05/jvm/src/main/java/logback/LogbackTest.java" timestamp="1500112327633">
+        <mark key="[" line="11" column="65" />
+        <mark key="]" line="11" column="81" />
+        <mark key="^" line="11" column="81" />
+        <mark key="." line="11" column="81" />
       </file>
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/resources/logback.xml" timestamp="1500120572836">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/resources/logback.xml" timestamp="1500124918175" />
       <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/hackathon/appender/CompressRollingFileAppender.java" timestamp="1500119270465">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/log/compress/appender/CompressRollingFileAppender.java" timestamp="1500120436013" />
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/log/compress/appender/CompressRollingFileAppender.java" timestamp="1500124882472" />
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/XmlUtils.java" timestamp="1499333786954">
         <mark key="[" line="56" column="62" />
         <mark key="]" line="57" column="58" />
@@ -151,22 +188,39 @@
         <mark key="^" line="356" column="24" />
         <mark key="." line="356" column="24" />
       </file>
+      <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/com/qunar/log/compress/test/Test.java" timestamp="1500124778333">
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="42" column="39" />
+        <mark key="." line="42" column="39" />
+      </file>
       <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/recovery/LZStringOutputStream.java" timestamp="1500119772773">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workplace/hprice_doctor/hprice_doctor_web/src/main/java/ch/qos/logback/core/recovery/ResilientFileCommonOutputStream.java" timestamp="1500120444355" />
+      <file name="$USER_HOME$/workplace/log_compress/src/main/java/com/qunar/log/compress/test/LogOutput.java" timestamp="1500123960287">
+        <mark key="[" line="21" column="77" />
+        <mark key="]" line="21" column="77" />
+        <mark key="." line="21" column="77" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1500114526292" />
       <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/ZipFileUtil.java" timestamp="1500104300231">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500120174179">
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/ZipFileUtilTest.java" timestamp="1500100840232">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500124342036">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/log_compress/src/main/resources/logback.xml" timestamp="1500118945539" />
+      <file name="$USER_HOME$/workplace/log_compress/src/main/resources/logback.xml" timestamp="1500123957209" />
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/util/OptionHelper.java" timestamp="1500125867833" />
       <file name="$USER_HOME$/workplace/open-price/provider/pom.xml" timestamp="1498793118472">
         <mark key="[" line="108" column="21" />
       </file>
@@ -176,28 +230,18 @@
         <mark key="^" line="106" column="85" />
         <mark key="." line="106" column="85" />
       </file>
-      <file name="$USER_HOME$/workplace/log_compress/pom.xml" timestamp="1500119121654" />
-      <file name="/fragment.java" timestamp="1500119063202">
+      <file name="$USER_HOME$/workplace/log_compress/pom.xml" timestamp="1500125736743" />
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/common/compress/FileUtilTest.java" timestamp="1500101003392">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="34" column="66" />
+      </file>
+      <file name="/fragment.java" timestamp="1500125358917">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1707" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
-      <jump line="1710" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
-      <jump line="1713" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
-      <jump line="94" column="23" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="101" column="29" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="113" column="19" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="118" column="38" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="122" column="54" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="199" column="19" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="200" column="30" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="211" column="19" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="212" column="31" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="225" column="19" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="226" column="30" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="398" column="19" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
-      <jump line="399" column="26" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
       <jump line="40" column="39" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
       <jump line="64" column="19" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
       <jump line="65" column="29" filename="$USER_HOME$/ctrip/hotelsearchservice/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/credisutility/RedisProvider.java" />
@@ -282,61 +326,77 @@
       <jump line="343" column="15" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
       <jump line="94" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
       <jump line="211" column="0" filename="$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.4/snappy-java-1.1.4-sources.jar!/org/xerial/snappy/SnappyFramedInputStream.java" />
+      <jump line="269" column="19" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="279" column="12" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="282" column="15" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="69" column="36" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="71" column="12" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="78" column="35" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="80" column="15" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="82" column="11" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="84" column="47" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="88" column="60" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="204" column="12" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="205" column="12" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="210" column="12" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="213" column="15" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="216" column="58" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="219" column="12" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxhcHBlbmRlciBuYW1lPSJjb25zb2xlIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5Db25zb2xlQXBwZW5kZXIiPgogICAgICAgIDxlbmNvZGluZz5VVEYtODwvZW5jb2Rpbmc+CiAgICAgICAgPGVuY29kZXI+CiAgICAgICAgICAgIDxwYXR0ZXJuPlslZHtISDptbTpzcy5TU1N9XSBRVHJhY2VJZFslWHtxdHJhY2VpZH1dWyVYe3RyYWNlSWR9XVslaGlnaGxpZ2h0KCUtNXApXVslbG9nZ2VyezB9XSAlbSVuPC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4KICAgICAgICA8ZmlsdGVyIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLmZpbHRlci5UaHJlc2hvbGRGaWx0ZXIiPgogICAgICAgICAgICA8bGV2ZWw+SU5GTzwvbGV2ZWw+CiAgICAgICAgPC9maWx0ZXI+CiAgICA8L2FwcGVuZGVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtvcmcuc2xmNGoudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>p</text>
       </register>
       <register name="m" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</text>
+        <text encoding="base64">XDxhYWlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>java java java java java</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxhcHBlbmRlciBuYW1lPSJjb25zb2xlIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5Db25zb2xlQXBwZW5kZXIiPgogICAgICAgIDxlbmNvZGluZz5VVEYtODwvZW5jb2Rpbmc+CiAgICAgICAgPGVuY29kZXI+CiAgICAgICAgICAgIDxwYXR0ZXJuPlslZHtISDptbTpzcy5TU1N9XSBRVHJhY2VJZFslWHtxdHJhY2VpZH1dWyVYe3RyYWNlSWR9XVslaGlnaGxpZ2h0KCUtNXApXVslbG9nZ2VyezB9XSAlbSVuPC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4KICAgICAgICA8ZmlsdGVyIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLmZpbHRlci5UaHJlc2hvbGRGaWx0ZXIiPgogICAgICAgICAgICA8bGV2ZWw+SU5GTzwvbGV2ZWw+CiAgICAgICAgPC9maWx0ZXI+CiAgICA8L2FwcGVuZGVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtvcmcuc2xmNGoudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUxaT3V0cHV0U3RyZWFtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtvcmcuc2xmNGoudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUNvbW1vbk91dHB1dFN0cmVhbTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtvcmcuc2xmNGoudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5sb2cuY29tcHJlc3MuYWxnb3JpdGhtLmx6c3RyaW5nLkxaU3RyaW5nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5sb2cuY29tcHJlc3MuYWxnb3JpdGhtLmx6c3RyaW5nLkxaU3RyaW5nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUNvbW1vbk91dHB1dFN0cmVhbTsKaW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUucmVjb3ZlcnkuUmVzaWxpZW50RmlsZUxaT3V0cHV0U3RyZWFtOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xNDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIGluaXQoKTsKICAgIEV4ZWN1dG9yU2VydmljZSBzZXJ2aWNlID0gRXhlY3V0b3JzLm5ld0ZpeGVkVGhyZWFkUG9vbCgxMCk7CiAgICBMb2dPdXRwdXQgbG9nT3V0cHV0MSA9IG5ldyBMb2dPdXRwdXQoKTsKICAgIExvZ091dHB1dCBsb2dPdXRwdXQyID0gbmV3IExvZ091dHB1dCgpOwogICAgTG9nT3V0cHV0IGxvZ091dHB1dDMgPSBuZXcgTG9nT3V0cHV0KCk7CiAgICBMb2dPdXRwdXQgbG9nT3V0cHV0NCA9IG5ldyBMb2dPdXRwdXQoKTsKICAgIExvZ091dHB1dCBsb2dPdXRwdXQ1ID0gbmV3IExvZ091dHB1dCgpOwogICAgbG9uZyBzdGFydCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwogICAgICAgIHNlcnZpY2UuZXhlY3V0ZShsb2dPdXRwdXQxKTsKICAgICAgICBzZXJ2aWNlLmV4ZWN1dGUobG9nT3V0cHV0Mik7CiAgICAgICAgc2VydmljZS5leGVjdXRlKGxvZ091dHB1dDMpOwogICAgICAgIHNlcnZpY2UuZXhlY3V0ZShsb2dPdXRwdXQ0KTsKICAgICAgICBzZXJ2aWNlLmV4ZWN1dGUobG9nT3V0cHV0NSk7CiAgICAgICAgc2VydmljZS5zaHV0ZG93bigpOwogICAgICAgIHNlcnZpY2UuYXdhaXRUZXJtaW5hdGlvbihMb25nLk1BWF9WQUxVRSwgVGltZVVuaXQuREFZUyk7CgogICAgICAgIGxvZ2dlci5pbmZvKCJ0aW1lOnt9IiwgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic2hhaGFhaGEiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRmlsZSBmaWxlID0gbmV3IEZpbGUoImR1YmJvLWFjY2Vzcy1wcm92aWRlci4yMDE3LTA3LTE1LTExLmxvZyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</last-search>
+      <last-search encoding="base64">XDxhYWlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhYWlcPg==</last-pattern>
       <last-replace>Money.dollar</last-replace>
       <last-substitute>new Dollar</last-substitute>
       <last-dir>1</last-dir>
@@ -344,7 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdXBwbGllckRldGFpbEFnZW50XD4=</entry>
         <entry encoding="base64">XDxhZGFwdEJlYW5Qcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxkYW5nY2lcPg==</entry>
         <entry encoding="base64">XDxwYWNrYWdlQ291cG9uSW5mb01hcFw+</entry>
@@ -364,6 +423,7 @@
         <entry encoding="base64">XDxleHBlcmltZW50VWlkXD4=</entry>
         <entry encoding="base64">XDxjaXR5UGFja2FnZUNvdXBvbk1hcFw+</entry>
         <entry encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</entry>
+        <entry encoding="base64">XDxhYWlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/User/user/g</entry>

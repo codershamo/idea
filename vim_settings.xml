@@ -53,6 +53,9 @@
       <file name="$USER_HOME$/workplace/hotelsearchservice/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/MasterHotelFilterPos.java" timestamp="1491471268302">
         <mark key="[" line="36" column="54" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.4/snappy-java-1.1.4-sources.jar!/org/xerial/snappy/SnappyFramedInputStream.java" timestamp="1500094655023">
+        <mark key="'" line="211" column="0" />
+      </file>
       <file name="$USER_HOME$/workplace/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/XmlUtils.java" timestamp="1499333786954">
         <mark key="[" line="56" column="62" />
         <mark key="]" line="57" column="58" />
@@ -86,11 +89,10 @@
       <file name="/HTML File.txt.ft" timestamp="1494053038074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/snappy/Demo.java" timestamp="1500089742148">
-        <mark key="[" line="16" column="69" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/workplace/snappydemo/src/main/java/com/qunar/hotel/snappy/Demo.java" timestamp="1500094329347">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1500024194982">
         <mark key="[" line="0" column="0" />
@@ -127,7 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1771" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
       <jump line="1707" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
       <jump line="1710" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
       <jump line="1713" column="18" filename="$USER_HOME$/workplace/h_hprice_rebuild/src/main/resources/logback.xml" />
@@ -227,13 +228,14 @@
       <jump line="150" column="8" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
       <jump line="343" column="15" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
       <jump line="94" column="24" filename="$USER_HOME$/workplace/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/PriceABtestConf.java" />
+      <jump line="211" column="0" filename="$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.4/snappy-java-1.1.4-sources.jar!/org/xerial/snappy/SnappyFramedInputStream.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5wdXQgPSAiamF2YSBqYXZhIGphdmEgamF2YSBqYXZhIGphdmEgamF2YSBqYXZhIGphdmEgamF2YSBqYXZhamF2YSBqYXZhIGphdmEgamF2YSBqYXZhIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">amF2YWphdmEg</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -242,37 +244,37 @@
         <text encoding="base64">XDxmaWxsUGFnZU9wdGltaXplRXhwZXJpbWVudHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>wrapperRule</text>
+        <text>java java java java java</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBob3RlbENvdXBvbkNudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5wdXQgPSAiamF2YSBqYXZhIGphdmEgamF2YSBqYXZhIGphdmEgamF2YSBqYXZhIGphdmEgamF2YSBqYXZhamF2YSBqYXZhIGphdmEgamF2YSBqYXZhIjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDM2MritKbA7b7GterIryh0aWNrZXRUeXBlPUgpLCC62sP7taXTw7unoaK1pbzk0rmxqLzbvfC27jw1MKGisai828f4vOSyu8L61+O1xLTysPy+xrXqtPq98MivCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBob3RlbENvdXBvbkNudCA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNIb3RlbENvdXBvbihjb3Vwb25JbmZvKSkgewogICAgICAgICAgICAgICAgICAgICAgICBob3RlbENvdXBvbkNudCsrOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDM2MritKbA7b7GterIryh0aWNrZXRUeXBlPUgpLCC62sP7taXTw7unoaK1pbzk0rmxqLzbvfC27jw1MKGisai828f4vOSyu8L61+O1xLTysPy+xrXqtPq98MivCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNIb3RlbENvdXBvbihjb3Vwb25JbmZvKSAmJiBob3RlbENvdXBvbkNudCA+PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNIb3RlbENvdXBvbihjb3Vwb25JbmZvKSkgewogICAgICAgICAgICAgICAgICAgICAgICBob3RlbENvdXBvbkNudCsrOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBXcmFwcGVyUHJpY2VFbnRyeSB3cmFwcGVyUHJpY2VFbnRyeSA9IGhvdGVsQ291cG9uLmdldCgpLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNIb3RlbENvdXBvbihjb3Vwb25JbmZvKSAmJiBob3RlbENvdXBvbkNudCA+PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxQYWNrYWdlQ291cG9uSW5mbywgV3JhcHBlclByaWNlRW50cnk+IGVudHJ5IDogY291cG9uSW5mb1dyYXBwZXJQcmljZUVudHJ5TWFwLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgaWYgKGlzSG90ZWxDb3Vwb24oZW50cnkuZ2V0S2V5KCkpKSB7CiAgICAgICAgICAgICAgIGVudHJ5LmdldFZhbHVlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBXcmFwcGVyUHJpY2VFbnRyeSB3cmFwcGVyUHJpY2VFbnRyeSA9IGhvdGVsQ291cG9uLmdldCgpLmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBob3RlbENvdXBvbi5pZlByZXNlbnQoTWFwLkVudHJ5OjpnZXRWYWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxQYWNrYWdlQ291cG9uSW5mbywgV3JhcHBlclByaWNlRW50cnk+IGVudHJ5IDogY291cG9uSW5mb1dyYXBwZXJQcmljZUVudHJ5TWFwLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgaWYgKGlzSG90ZWxDb3Vwb24oZW50cnkuZ2V0S2V5KCkpKSB7CiAgICAgICAgICAgICAgIGVudHJ5LmdldFZhbHVlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vwb25JbmZvV3JhcHBlclByaWNlRW50cnlNYXAuZW50cnlTZXQoKS4K</text>
+        <text encoding="base64">ICAgICAgICBob3RlbENvdXBvbi5pZlByZXNlbnQoTWFwLkVudHJ5OjpnZXRWYWx1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ZXJhdG9yLikK</text>
+        <text encoding="base64">ICAgICAgICBjb3Vwb25JbmZvV3JhcHBlclByaWNlRW50cnlNYXAuZW50cnlTZXQoKS4K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
